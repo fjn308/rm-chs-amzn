@@ -1,4 +1,4 @@
-# *Rick and Morty*: Simplified Chinese Subtitles
+# *Rick and Morty*: Chinese Subtitles
 
 这里是 *Rick and Morty* 简体中文字幕的公开改错项目（适配 AMZN 片源）。
 
