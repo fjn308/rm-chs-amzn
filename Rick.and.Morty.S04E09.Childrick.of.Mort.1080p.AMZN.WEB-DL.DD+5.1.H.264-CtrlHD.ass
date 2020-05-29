@@ -22,6 +22,7 @@ Dialogue: 0,0:00:15.25,0:00:19.75,Top,,0,0,0,,我们的定位不同于专业字�
 Dialogue: 0,0:00:20.25,0:00:24.75,Top,,0,0,0,,如果在观看中遇到任何错误翻译 诚邀您前往GitHub参与改错 该项目的地址是
 Dialogue: 0,0:00:25.25,0:00:29.75,Top,,0,0,0,,{\rGit}https://github.com/fjn308/Rick-and-Morty-Chinese-Subtitles {\rTop}非常 非常 非常 期待您的参与
 Dialogue: 0,0:00:30.25,0:00:34.75,Top,,0,0,0,,GitHub CONTRIBUTORS：Ntrv777
+Dialogue: 0,0:02:45.00,0:02:55.00,Top,,0,0,0,,I AM：《圣经》中上帝的自称 此作“是我”
 Dialogue: 0,0:07:52.00,0:07:54.00,Top,,0,0,0,,低产者
 Dialogue: 0,0:00:02.02,0:00:04.28,Chn,,0,0,0,,什么样的父母才会把孩子拽出家门\N{\rEng}What kind of parents drag their kids away
 Dialogue: 0,0:00:04.29,0:00:05.82,Chn,,0,0,0,,浪费春假里一整周的大好时光\N{\rEng}for the entire week of spring break?
@@ -81,8 +82,8 @@ Dialogue: 0,0:02:38.17,0:02:41.57,Chn,,0,0,0,,嘿 盖亚 宝贝 你Rick老爹来
 Dialogue: 0,0:02:41.58,0:02:42.98,Chn,,0,0,0,,- 找我什么事呀 - 孩子\N{\rEng}- What's the problem? - Children.
 Dialogue: 0,0:02:42.98,0:02:44.38,Chn,,0,0,0,,分娩流程 现在\N{\rEng}Birth cycle. Now.
 Dialogue: 0,0:02:44.38,0:02:47.85,Chn,,0,0,0,,好吧 直奔主题啊\N{\rEng}Okay, gettin' right into it.
-Dialogue: 0,0:02:47.85,0:02:49.92,Chn,,0,0,0,,- 我来了 - 我来了 - 我的天哪\N{\rEng}-I am! I am! -Jesus Christ!
-Dialogue: 0,0:02:49.92,0:02:52.59,Chn,,0,0,0,,- 我来了 - 我来了 - 我来了\N{\rEng}-I am! -I am! -I am!
+Dialogue: 0,0:02:47.85,0:02:49.92,Chn,,0,0,0,,- 是我 - 是我 - 我的天哪\N{\rEng}-I am! I am! -Jesus Christ!
+Dialogue: 0,0:02:49.92,0:02:52.59,Chn,,0,0,0,,- 是我 - 是我 - 是我\N{\rEng}-I am! -I am! -I am!
 Dialogue: 0,0:02:52.59,0:02:55.92,Chn,,0,0,0,,- 爸 做点什么啊 快让它停下来 - 你以为我会懂怎么停下这个吗\N{\rEng}- Dad, do something! Make it stop! - You think I know how to stop this?
 Dialogue: 0,0:02:55.92,0:02:57.96,Chn,,0,0,0,,我还以为她会拉个蛋什么的\N{\rEng}I thought she was gonna shit an egg.
 Dialogue: 0,0:02:59.53,0:03:00.73,Chn,,0,0,0,,假期可真酷啊 伙计们\N{\rEng}Cool vacation, guys.
@@ -105,9 +106,9 @@ Dialogue: 0,0:03:30.69,0:03:31.83,Chn,,0,0,0,,很正常的\N{\rEng}It's totally 
 Dialogue: 0,0:03:32.83,0:03:35.70,Chn,,0,0,0,,好吧 你不做 那我来做\N{\rEng}Fine. You won't do something, I will.
 Dialogue: 0,0:03:35.70,0:03:37.16,Chn,,0,0,0,,啊 惊喜都没了\N{\rEng}Welp, there goes the surprise!
 Dialogue: 0,0:03:37.17,0:03:38.97,Chn,,0,0,0,,我本来想让我们钓到第一条鱼后\N{\rEng}I was gonna have us jump on the trampoline
-Dialogue: 0,0:03:38.97,0:03:40.43,Chn,,0,0,0,,- 再跳上蹦床的  - 我来了\N{\rEng}- after we caught our first fish. - I am!
-Dialogue: 0,0:03:40.44,0:03:42.44,Chn,,0,0,0,,- 什么 你个蠢货 - 我来了\N{\rEng}- What? You're stupid. - I am!
-Dialogue: 0,0:03:42.44,0:03:44.17,Chn,,0,0,0,,- 我来了 我来了 - Beth 那没用的\N{\rEng}-I am! I am! -Beth, that's not gonna help.
+Dialogue: 0,0:03:38.97,0:03:40.43,Chn,,0,0,0,,- 再跳上蹦床的  - 是我\N{\rEng}- after we caught our first fish. - I am!
+Dialogue: 0,0:03:40.44,0:03:42.44,Chn,,0,0,0,,- 什么 你个蠢货 - 是我\N{\rEng}- What? You're stupid. - I am!
+Dialogue: 0,0:03:42.44,0:03:44.17,Chn,,0,0,0,,- 是我 - 是我 - Beth 那没用的\N{\rEng}-I am! I am! -Beth, that's not gonna help.
 Dialogue: 0,0:03:44.17,0:03:45.84,Chn,,0,0,0,,呃 我讨厌赞同Rick\N{\rEng}Uh, I hate to agree with Rick,
 Dialogue: 0,0:03:45.84,0:03:46.97,Chn,,0,0,0,,但难道不是就该这样算了吗\N{\rEng}but shouldn't we just let this be?
 Dialogue: 0,0:03:46.98,0:03:48.44,Chn,,0,0,0,,我们本应该正在度假\N{\rEng}We're supposed to be on vacation.
@@ -115,7 +116,7 @@ Dialogue: 0,0:03:48.44,0:03:49.64,Chn,,0,0,0,,你没工作 Jerry\N{\rEng}You're 
 Dialogue: 0,0:03:49.64,0:03:51.24,Chn,,0,0,0,,每天都是放假\N{\rEng}Every day is a vacation for you.
 Dialogue: 0,0:03:51.25,0:03:52.98,Chn,,0,0,0,,- 好吧 好受伤 - 你们爱干啥干啥吧\N{\rEng}- Okay, ouch. - You guys do whatever you want.
 Dialogue: 0,0:03:52.98,0:03:54.58,Chn,,0,0,0,,我要留下来处理这个\N{\rEng}I'm staying here and fixing this.
-Dialogue: 0,0:03:54.58,0:03:56.12,Chn,,0,0,0,,- 我来了 - 我来了\N{\rEng}-I am! -I am!
+Dialogue: 0,0:03:54.58,0:03:56.12,Chn,,0,0,0,,- 是我 - 是我\N{\rEng}-I am! -I am!
 Dialogue: 0,0:03:56.12,0:03:57.65,Chn,,0,0,0,,他妈的 Beth 你要是非想这么做\N{\rEng}Goddamn it, Beth, if you're gonna do it,
 Dialogue: 0,0:03:57.65,0:03:59.05,Chn,,0,0,0,,至少也得做对吧\N{\rEng}at least do it right.
 Dialogue: 0,0:03:59.05,0:04:01.32,Chn,,0,0,0,,盖亚 宝贝 来点儿生铁和蒸汽\N{\rEng}Gaia, baby, gonna need a little raw iron and steam.
@@ -126,7 +127,7 @@ Dialogue: 0,0:04:14.14,0:04:16.34,Chn,,0,0,0,,既有树林在那边 又有土地
 Dialogue: 0,0:04:16.34,0:04:17.80,Chn,,0,0,0,,- 妈 - Summer Morty\N{\rEng}- Mom! - Summer, Morty,
 Dialogue: 0,0:04:17.81,0:04:19.14,Chn,,0,0,0,,跟你们爸一块野营去\N{\rEng}go camp with your father.
 Dialogue: 0,0:04:19.14,0:04:20.74,Chn,,0,0,0,,- 噢 狗娘养的 - 狗娘养的\N{\rEng}- Ohh, son of a bitch. - Son of a bitch.
-Dialogue: 0,0:04:20.74,0:04:22.14,Chn,,0,0,0,,- 我来了 - 我来了 - 我来了\N{\rEng}-I am! -I am! -I am!
+Dialogue: 0,0:04:20.74,0:04:22.14,Chn,,0,0,0,,- 是我 - 是我 - 是我\N{\rEng}-I am! -I am! -I am!
 Dialogue: 0,0:04:22.14,0:04:24.68,Chn,,0,0,0,,欢迎来到没有抛弃二字的世界\N{\rEng}Welp, welcome to lack of abandonment.
 Dialogue: 0,0:04:26.48,0:04:27.75,Chn,,0,0,0,,爸 我们能回去\N{\rEng}Dad, can we please go back
 Dialogue: 0,0:04:27.75,0:04:29.22,Chn,,0,0,0,,和姥爷的粘土人一起玩吗\N{\rEng}and hang out with Grandpa's clay people?
