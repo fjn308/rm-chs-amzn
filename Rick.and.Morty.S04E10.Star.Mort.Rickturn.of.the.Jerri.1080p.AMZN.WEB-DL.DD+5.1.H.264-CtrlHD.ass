@@ -1,0 +1,522 @@
+[Script Info]
+Title: RM S04E10 by Community-137
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Chn,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Top,微软雅黑,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Eng,Comic Sans MS,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:04.75,Top,,0,0,0,,本字幕第一版由Community-137制作 同时发布于SubHD和GitHub 参与的成员有
+Dialogue: 0,0:00:05.25,0:00:09.75,Top,,0,0,0,,[翻译] Otter   走吃元   季叽馥疾己   Ng   Chrim   NPC   [校对] fuga   se9fault
+Dialogue: 0,0:00:10.25,0:00:14.75,Top,,0,0,0,,转载请务必保留字幕信息 Community-137不对任何利用本字幕生成的视频负责
+Dialogue: 0,0:00:15.25,0:00:19.75,Top,,0,0,0,,我们的定位不同于专业字幕组 志在号召RM爱好者贡献个人力量 不断完善译文
+Dialogue: 0,0:00:20.25,0:00:24.75,Top,,0,0,0,,如果在观看中遇到任何错误翻译 诚邀您前往GitHub参与改错 该项目的地址是
+Dialogue: 0,0:00:25.25,0:00:29.75,Top,,0,0,0,,{\rGit}https://github.com/fjn308/Rick-and-Morty-Chinese-Subtitles {\rTop}非常 非常 非常 期待您的参与
+Dialogue: 0,0:00:04.48,0:00:06.48,Chn,,0,0,0,,带我们离开这 我来拖住他们\N{\rEng}Get us out of here. I'll hold them off.
+Dialogue: 0,0:00:11.02,0:00:12.42,Chn,,0,0,0,,我叫Beth Smith\N{\rEng}My name is Beth Smith.
+Dialogue: 0,0:00:12.42,0:00:14.82,Chn,,0,0,0,,告诉你的虫子头头们 反抗组织不会消亡\N{\rEng}Tell your top bugs the Defiance lives on.
+Dialogue: 0,0:00:14.83,0:00:16.23,Chn,,0,0,0,,好的 好的\N{\rEng}I will. I will.
+Dialogue: 0,0:00:16.23,0:00:17.83,Chn,,0,0,0,,我能让你成为传奇 Blade Smith\N{\rEng}I'll make you a legend. Blade Smith.
+Dialogue: 0,0:00:17.83,0:00:20.23,Chn,,0,0,0,,- Beth Smith - Beth Beth Beth Smith\N{\rEng}- Beth Smith. - Beth. Beth. Beth Smith.
+Dialogue: 0,0:00:20.23,0:00:22.17,Chn,,0,0,0,,好吧 我天 这名字也太普\N{\rEng}Okay, God, it's just such a plain --
+Dialogue: 0,0:00:22.17,0:00:24.17,Chn,,0,0,0,,我正试着给你的名字找个助记法\N{\rEng}I'm trying to come up with a mnemonic device.
+Dialogue: 0,0:00:24.17,0:00:25.70,Chn,,0,0,0,,你可以把它和死里逃生联系在一起\N{\rEng}You could connect it to not dying.
+Dialogue: 0,0:00:25.70,0:00:27.90,Chn,,0,0,0,,我明白 我明白 按理说这应该很刻骨铭心的\N{\rEng}I know, I know! You think that would sear it right in,
+Dialogue: 0,0:00:27.91,0:00:30.31,Chn,,0,0,0,,但你名字的易忘度真是爆表了\N{\rEng}but it just speaks to the sheer forgettability.
+Dialogue: 0,0:00:30.31,0:00:32.64,Chn,,0,0,0,,哦 天 我 我 我 呃 太抱歉了\N{\rEng}Oh, God. I-I-I'm, uh, so sorry.
+Dialogue: 0,0:00:32.64,0:00:34.11,Chn,,0,0,0,,呃 呃 哦 天\N{\rEng}Uh, uh, oh, God.
+Dialogue: 0,0:00:34.11,0:00:35.51,Chn,,0,0,0,,首字母是\N{\rEng}Starts with a  --
+Dialogue: 0,0:00:35.51,0:00:39.38,Chn,,0,0,0,,恭喜贵政府 企业 或恐怖组织 喜得这件\N{\rEng}Congratulations to your government, business, or terror cell on its acquisition of
+Dialogue: 0,0:00:39.39,0:00:41.25,Chn,,0,0,0,,Xamaxax牌NX-5行星清洁器\N{\rEng}the NX-5 Planet Remover by Xamaxax
+Dialogue: 0,0:00:41.25,0:00:43.12,Chn,,0,0,0,,由威格牛仔裤特别赞助\N{\rEng}in partnership with Wrangler jeans.
+Dialogue: 0,0:00:43.12,0:00:44.72,Chn,,0,0,0,,NX-5业界领先的\N{\rEng}The NX-5's industry-leading
+Dialogue: 0,0:00:44.72,0:00:47.66,Chn,,0,0,0,,超光速粒子束能以NX-4S两倍的速度消灭行星\N{\rEng}tachyon beams eliminate planets twice as fast as the NX-4S
+Dialogue: 0,0:00:47.66,0:00:50.53,Chn,,0,0,0,,只耗一半的的电力并且绝无内置致命设计缺陷\N{\rEng}with half the battery and zero built-in fatal design flaws.
+Dialogue: 0,0:00:50.53,0:00:53.66,Chn,,0,0,0,,你没有听错 再没有秘密后门让人开一枪就爆炸\N{\rEng}That's right. No more secret hole that blows the whole thing up when you shoot it.
+Dialogue: 0,0:00:53.67,0:00:54.80,Chn,,0,0,0,,你的敌人也许会说这不公平\N{\rEng}Your enemies will say it's unfair.
+Dialogue: 0,0:00:54.80,0:00:56.87,Chn,,0,0,0,,- 但我们要说时候正好 - 见鬼\N{\rEng}- We say it's about time. - Damn it.
+Dialogue: 0,0:00:56.87,0:00:58.20,Chn,,0,0,0,,我们拼死拼活为的就是这么\N{\rEng}We risked our lives for that?
+Dialogue: 0,0:00:58.20,0:01:00.27,Chn,,0,0,0,,你尽力了 也许你需要休息一下\N{\rEng}You did your best. Maybe you need a break.
+Dialogue: 0,0:01:00.27,0:01:02.14,Chn,,0,0,0,,- 你就不想念地球吗 - 我用不着想念它\N{\rEng}- Don't you ever miss Earth? - I don't have to miss it.
+Dialogue: 0,0:01:02.14,0:01:03.61,Chn,,0,0,0,,技术层面讲 我仍在地球上\N{\rEng}I'm technically still there.
+Dialogue: 0,0:01:03.61,0:01:06.74,Chn,,0,0,0,,我爸造了个完美克隆人替代我\N{\rEng}My dad made a perfect clone of me to take my place.
+Dialogue: 0,0:01:06.75,0:01:07.94,Chn,,0,0,0,,天 那个Rick\N{\rEng}Boy, that Rick.
+Dialogue: 0,0:01:07.95,0:01:09.21,Chn,,0,0,0,,所以 要是你真的回去\N{\rEng}So, if you do go back,
+Dialogue: 0,0:01:09.22,0:01:10.61,Chn,,0,0,0,,那个克隆人会怎样\N{\rEng}what happens to the clone?
+Dialogue: 0,0:01:10.62,0:01:13.15,Chn,,0,0,0,,它有 比方说 一个接近触发装置\N{\rEng}Does it have, like, a proximity-triggered device
+Dialogue: 0,0:01:13.15,0:01:15.15,Chn,,0,0,0,,- 安在脖子里吗 - 谁在乎 我们弄好了吗\N{\rEng}- in its neck? - Who cares? Are we done?
+Dialogue: 0,0:01:15.15,0:01:16.69,Chn,,0,0,0,,当然 除非你想让我拆除\N{\rEng}Sure. Unless you want me to remove
+Dialogue: 0,0:01:16.69,0:01:20.29,Chn,,0,0,0,,你脖子里的接近触发装置\N{\rEng}the proximity-triggered device from your neck.
+Dialogue: 0,0:01:20.29,0:01:21.69,Chn,,0,0,0,,觉得这是炸弹吗\N{\rEng}Think it's a bomb?
+Dialogue: 0,0:01:21.69,0:01:23.29,Chn,,0,0,0,,天 如果你就是这样发现的\N{\rEng}Man, what if this is how you found out
+Dialogue: 0,0:01:23.30,0:01:24.89,Chn,,0,0,0,,他压根不想让你回去\N{\rEng}he never wanted you back,
+Dialogue: 0,0:01:24.90,0:01:27.10,Chn,,0,0,0,,而且他爱那个克隆人胜过爱你\N{\rEng}that he loved the clone more than you?
+Dialogue: 0,0:01:27.10,0:01:28.90,Chn,,0,0,0,,那也太疯狂了吧\N{\rEng}How crazy would that be?
+Dialogue: 0,0:01:28.90,0:01:30.70,Chn,,0,0,0,,疯狂并 并且自然也心碎着\N{\rEng}Crazy and of -- of course soul-crushing.
+Dialogue: 0,0:01:30.70,0:01:32.77,Chn,,0,0,0,,对你而言 事实上针对这个我有对症的好东西\N{\rEng}For you. I actually have something for that.
+Dialogue: 0,0:01:32.77,0:01:34.37,Chn,,0,0,0,,你 你想来点儿吗 不会上瘾\N{\rEng}Y-You want some? They're nonaddictive.
+Dialogue: 0,0:01:34.37,0:01:36.31,Chn,,0,0,0,,并不 它们成瘾性极强\N{\rEng}That's not true. They're totally addictive.
+Dialogue: 0,0:01:36.31,0:01:37.57,Chn,,0,0,0,,我是个烂医生\N{\rEng}I'm a terrible doctor.
+Dialogue: 0,0:01:37.58,0:01:38.91,Chn,,0,0,0,,事实上针对这个我也有对症的好东西\N{\rEng}I actually have something for that, too.
+Dialogue: 0,0:01:38.91,0:01:41.85,Chn,,0,0,0,,你想来点儿吗 不会上瘾 呣\N{\rEng}You want some? Nonaddictive. Mmm.
+Dialogue: 0,0:01:41.85,0:01:43.58,Chn,,0,0,0,,我是个棒医生\N{\rEng}I'm a great doctor.
+Dialogue: 0,0:02:15.35,0:02:16.88,Chn,,0,0,0,,王医生今天有个预约取消了\N{\rEng}Dr. Wong had a cancellation today.
+Dialogue: 0,0:02:16.88,0:02:18.35,Chn,,0,0,0,,有人想去家庭心理辅导吗\N{\rEng}Anybody up for a family session?
+Dialogue: 0,0:02:18.35,0:02:19.82,Chn,,0,0,0,,- 我可以去 - 求 求之不得\N{\rEng}- I could do that. - I'm -- I'm down to clown.
+Dialogue: 0,0:02:19.82,0:02:21.29,Chn,,0,0,0,,喔 不确定能不能赶在心理辅导之前把治疗手偶做出来\N{\rEng}Ooh, not sure my therapy puppet will be done in time.
+Dialogue: 0,0:02:21.29,0:02:23.09,Chn,,0,0,0,,那可真棒 因为她明确要求你\N{\rEng}Great, because she specifically asked you
+Dialogue: 0,0:02:23.09,0:02:24.82,Chn,,0,0,0,,不要再带着手偶去了 爸\N{\rEng}to stop bringing puppets. Dad?
+Dialogue: 0,0:02:24.82,0:02:27.29,Chn,,0,0,0,,我热爱心理治疗 尤其是家庭心理治疗\N{\rEng}I love therapy, family therapy most of all,
+Dialogue: 0,0:02:27.29,0:02:31.03,Chn,,0,0,0,,但事实上我要分解了\N{\rEng}but I am actually disintegrating.
+Dialogue: 0,0:02:31.03,0:02:32.10,Chn,,0,0,0,,- 哦 我天 - 喔 爸\N{\rEng}- Oh, my God! - Whoa! Dad!
+Dialogue: 0,0:02:32.10,0:02:34.23,Chn,,0,0,0,,这是真的吗 我们做到了是吗\N{\rEng}Is that really it? We did it?
+Dialogue: 0,0:02:34.23,0:02:36.23,Chn,,0,0,0,,是隐身腰带的效果\N{\rEng}It's the invisibility belt.
+Dialogue: 0,0:02:36.23,0:02:38.57,Chn,,0,0,0,,喔 喔 喔 他碰着它们了\N{\rEng}Whoa-whoa-whoa! He grazed them.
+Dialogue: 0,0:02:38.57,0:02:39.90,Chn,,0,0,0,,大概再过十秒就要开始疼了\N{\rEng}That's gonna hurt in like 10 seconds.
+Dialogue: 0,0:02:39.91,0:02:41.84,Chn,,0,0,0,,- 谢谢啊 Morty - 为啥我要让你用得自在\N{\rEng}- Thanks, Morty. - Why should I let you use it?
+Dialogue: 0,0:02:41.84,0:02:43.71,Chn,,0,0,0,,- 你都没让我用过 - 我能用用这条腰带吗\N{\rEng}- You never let me use it. - Can I have the belt?
+Dialogue: 0,0:02:43.71,0:02:45.78,Chn,,0,0,0,,- 那一定会气坏Morty的 - 绝妙主意\N{\rEng}- It would really piss off Morty. - Fantastic idea.
+Dialogue: 0,0:02:45.78,0:02:48.04,Chn,,0,0,0,,什么鬼 你个混蛋 交出来\N{\rEng}What the hell?! You jerk! Give it!
+Dialogue: 0,0:02:49.85,0:02:51.52,Chn,,0,0,0,,隐身能力要分享使用 Jerry\N{\rEng}Share the invisibility. Jerry?
+Dialogue: 0,0:02:51.52,0:02:53.25,Chn,,0,0,0,,喔 看来咬咬先生有工作要做了\N{\rEng}Ooh, this looks like a job for Mr. Nibbles.
+Dialogue: 0,0:02:53.25,0:02:54.92,Chn,,0,0,0,,让我再粘一个眼睛上去\N{\rEng}Let me just glue one more eye on.
+Dialogue: 0,0:02:54.92,0:02:56.79,Chn,,0,0,0,,我要杀了你\N{\rEng}I'm gonna kill you!
+Dialogue: 0,0:02:56.79,0:02:58.39,Chn,,0,0,0,,我去 看上去你俩得就为什么\N{\rEng}Woof. Looks like you two have to fight
+Dialogue: 0,0:02:58.39,0:02:59.72,Chn,,0,0,0,,控制不了孩子们吵一架了\N{\rEng}about why you can't control your kids.
+Dialogue: 0,0:02:59.73,0:03:01.46,Chn,,0,0,0,,还好王医生正好有空\N{\rEng}Good thing Dr. Wong's got an opening.
+Dialogue: 0,0:03:01.46,0:03:04.06,Chn,,0,0,0,,- 再见 - 你是个烂父亲\N{\rEng}- Bye. - You're a bad father.
+Dialogue: 0,0:03:04.06,0:03:06.40,Chn,,0,0,0,,别任他挑拨离间\N{\rEng}Don't let him divide us.
+Dialogue: 0,0:03:06.40,0:03:09.33,Chn,,0,0,0,,车库 启动应对家庭心理治疗模式\N{\rEng}Garage, family therapy mode.
+Dialogue: 0,0:03:14.01,0:03:15.54,Chn,,0,0,0,,宝贝 你回来啦\N{\rEng}Honey, you're back.
+Dialogue: 0,0:03:15.54,0:03:17.47,Chn,,0,0,0,,- 你看起来有点惊讶 - 你从没写信回来过\N{\rEng}- You seem surprised. - You never wrote.
+Dialogue: 0,0:03:17.48,0:03:20.08,Chn,,0,0,0,,而且居然没爆炸是吧\N{\rEng}And never exploded?
+Dialogue: 0,0:03:20.08,0:03:23.81,Chn,,0,0,0,,我听出的意思是 你觉得那是个炸弹\N{\rEng}What I'm hearing is that you think that's a bomb.
+Dialogue: 0,0:03:23.82,0:03:26.55,Chn,,0,0,0,,所有看过的工程师都这么觉得\N{\rEng}So does every engineer that's seen it.
+Dialogue: 0,0:03:26.55,0:03:28.75,Chn,,0,0,0,,工程师吗 宝贝 我确信每个穴居人\N{\rEng}Engineer? Princess, I'm sure every caveman
+Dialogue: 0,0:03:28.75,0:03:30.82,Chn,,0,0,0,,见到微波炉都会以为那是个石头柜子\N{\rEng}that sees a microwave calls it a rock cabinet.
+Dialogue: 0,0:03:30.82,0:03:34.29,Chn,,0,0,0,,搞发明的要义就是造出本来不存在的东西\N{\rEng}The point of inventing is to make things that don't exist.
+Dialogue: 0,0:03:37.70,0:03:40.36,Chn,,0,0,0,,那你也造出个我不杀你的理由吧\N{\rEng}Then whip me up a reason not to kill you.
+Dialogue: 0,0:03:40.37,0:03:42.63,Chn,,0,0,0,,爸 我们要去见王医生了\N{\rEng}Dad? We're off to Dr. Wong's.
+Dialogue: 0,0:03:42.63,0:03:45.04,Chn,,0,0,0,,扫描她\N{\rEng}Scan her.
+Dialogue: 0,0:03:45.04,0:03:47.44,Chn,,0,0,0,,爸\N{\rEng}Dad?
+Dialogue: 0,0:03:47.44,0:03:48.77,Chn,,0,0,0,,好啊 玩得开心 小傻瓜\N{\rEng}Okay, have fun, pumpkin.
+Dialogue: 0,0:03:48.77,0:03:50.64,Chn,,0,0,0,,抱歉我这个差劲父亲就不过去了\N{\rEng}Sorry I'm a piece-of-shit father.
+Dialogue: 0,0:03:50.64,0:03:53.58,Chn,,0,0,0,,哈哈 好吧 这句自我厌恶已经帮我回本了\N{\rEng}Oh, ha-ha! Well, the self-loathing buys a lot back.
+Dialogue: 0,0:03:53.58,0:03:54.98,Chn,,0,0,0,,Jerry 别带手偶\N{\rEng}Jerry, leave the puppet.
+Dialogue: 0,0:03:54.98,0:03:57.11,Chn,,0,0,0,,我一定会取得突破的 Beth\N{\rEng}It's a one-way ticket to a breakthrough, Beth.
+Dialogue: 0,0:03:57.12,0:03:59.38,Chn,,0,0,0,,她脖子里的装置是用来向你的装置\N{\rEng}The device in her neck would have transferred
+Dialogue: 0,0:03:59.39,0:04:01.18,Chn,,0,0,0,,传输记忆数据的\N{\rEng}a database of her memories to your device
+Dialogue: 0,0:04:01.19,0:04:02.32,Chn,,0,0,0,,之后再将她汽化\N{\rEng}before vaporizing her.
+Dialogue: 0,0:04:02.32,0:04:03.59,Chn,,0,0,0,,这下都泡汤了\N{\rEng}So much for that plan.
+Dialogue: 0,0:04:03.59,0:04:05.06,Chn,,0,0,0,,那为什么她 它\N{\rEng}Why is she -- it --
+Dialogue: 0,0:04:05.06,0:04:06.59,Chn,,0,0,0,,为什么我会和Jerry复合啊\N{\rEng}why am I back with Jerry?
+Dialogue: 0,0:04:06.59,0:04:07.92,Chn,,0,0,0,,她难道不是我的复制品么\N{\rEng}I thought she was a copy of me.
+Dialogue: 0,0:04:07.93,0:04:09.26,Chn,,0,0,0,,她确实是你的复制品\N{\rEng}She is a copy of you.
+Dialogue: 0,0:04:09.26,0:04:10.86,Chn,,0,0,0,,所以如果她跑回去找那个蠢货\N{\rEng}If she ran back to that dingleberry,
+Dialogue: 0,0:04:10.86,0:04:12.60,Chn,,0,0,0,,得怪你\N{\rEng}that's on you.
+Dialogue: 0,0:04:12.60,0:04:13.93,Chn,,0,0,0,,- 想喝一杯吗 - 随时\N{\rEng}- Want to grab a drink? - All the time.
+Dialogue: 0,0:04:13.93,0:04:15.60,Chn,,0,0,0,,好姑娘\N{\rEng}Good girl.
+Dialogue: 0,0:04:32.82,0:04:35.15,Chn,,0,0,0,,- 《猎捕掠食者》 - 什么鬼\N{\rEng}- To catch a predator. - What the hell?!
+Dialogue: 0,0:04:35.15,0:04:36.29,Chn,,0,0,0,,热感成像镜 小婊砸\N{\rEng}Thermal goggles, bitch.
+Dialogue: 0,0:04:36.29,0:04:37.75,Chn,,0,0,0,,妈妈说了要分享\N{\rEng}Mom said share.
+Dialogue: 0,0:04:37.76,0:04:39.82,Chn,,0,0,0,,隐身能力怎么分享啊 你把眼镜摘了\N{\rEng}You can't share invisibility. Take those off.
+Dialogue: 0,0:04:42.16,0:04:43.79,Chn,,0,0,0,,不\N{\rEng}No.
+Dialogue: 0,0:04:46.30,0:04:48.16,Chn,,0,0,0,,所以等下我就直接去啦啦队训练那儿找你呗\N{\rEng}So I'll just see you at cheerleader practice?
+Dialogue: 0,0:04:48.17,0:04:50.23,Chn,,0,0,0,,我要带个斗篷去吗\N{\rEng}Should I bring a poncho?
+Dialogue: 0,0:04:50.24,0:04:52.04,Chn,,0,0,0,,好吧 你开个条件\N{\rEng}Alright! State your terms.
+Dialogue: 0,0:04:52.04,0:04:54.10,Chn,,0,0,0,,腰带还我 眼镜拿走\N{\rEng}Give back the belt. You take the goggles.
+Dialogue: 0,0:04:54.11,0:04:56.31,Chn,,0,0,0,,离开这里 一小时后交换\N{\rEng}Go away. We trade in an hour.
+Dialogue: 0,0:04:56.31,0:04:57.71,Chn,,0,0,0,,成交\N{\rEng}Deal.
+Dialogue: 0,0:04:59.04,0:05:00.31,Chn,,0,0,0,,这招如何 小婊砸\N{\rEng}How do you like that, bitch?
+Dialogue: 0,0:05:00.31,0:05:02.45,Chn,,0,0,0,,这个新腰带可比旧腰带好多了\N{\rEng}I liked it more than my old belt.
+Dialogue: 0,0:05:02.45,0:05:04.18,Chn,,0,0,0,,“小小大个子腰带青少年款”\N{\rEng}"Tiny Big Man Junior"?
+Dialogue: 0,0:05:04.18,0:05:07.52,Chn,,0,0,0,,你本该选择分享的\N{\rEng}You shoulda shared.
+Dialogue: 0,0:05:07.52,0:05:08.99,Chn,,0,0,0,,你在我家里干什么\N{\rEng}What are you doing in my house?
+Dialogue: 0,0:05:08.99,0:05:11.46,Chn,,0,0,0,,我已经从主机那转悠出这么远了吗\N{\rEng}Did I wander that far from my console?
+Dialogue: 0,0:05:11.46,0:05:13.79,Chn,,0,0,0,,他们应该在这些个VR眼镜上贴个警告标签的\N{\rEng}They should put a warning on these things.
+Dialogue: 0,0:05:13.79,0:05:15.39,Chn,,0,0,0,,所以 我们冲破城门\N{\rEng}So, we overrode the gates,
+Dialogue: 0,0:05:15.39,0:05:17.79,Chn,,0,0,0,,然后奴隶起义军就攻占了首都\N{\rEng}and the slave rebellion took the capital.
+Dialogue: 0,0:05:17.80,0:05:19.53,Chn,,0,0,0,,- 挺酷的啊 - 相当酷啊\N{\rEng}Pretty cool. Very cool.
+Dialogue: 0,0:05:19.53,0:05:22.00,Chn,,0,0,0,,我的女儿 经历着星际冒险\N{\rEng}My daughter, having space adventures.
+Dialogue: 0,0:05:22.00,0:05:25.54,Chn,,0,0,0,,虽然有点往《星球大战》发展的味道\N{\rEng}They are skewing a tad "Star Wars"-y, though.
+Dialogue: 0,0:05:25.54,0:05:26.87,Chn,,0,0,0,,别忘了找找乐子\N{\rEng}Don't forget to have fun.
+Dialogue: 0,0:05:26.87,0:05:28.74,Chn,,0,0,0,,我是为杀你回来的 不是来听你意见的\N{\rEng}Well, I came back to murder you, not get your notes,
+Dialogue: 0,0:05:28.74,0:05:30.94,Chn,,0,0,0,,不过拯救银河系时我会记得多放几个屁的\N{\rEng}but I'll remember to fart more while I'm saving the galaxy.
+Dialogue: 0,0:05:30.94,0:05:33.01,Chn,,0,0,0,,好吧 是我让这一切成为可能的\N{\rEng}Okay, I'm the one that made this possible.
+Dialogue: 0,0:05:33.01,0:05:34.68,Chn,,0,0,0,,- 咱们可不是在攀比啊 - 当然不\N{\rEng}- It's not a competition. - Of course not.
+Dialogue: 0,0:05:34.68,0:05:36.01,Chn,,0,0,0,,但是纯粹好奇问一句 如果真要比比的话\N{\rEng}Just curious, though, if it were,
+Dialogue: 0,0:05:36.01,0:05:38.35,Chn,,0,0,0,,“头号通缉犯”可以拿第一名吗\N{\rEng}would "most wanted" be first place?
+Dialogue: 0,0:05:40.49,0:05:41.75,Chn,,0,0,0,,你怎么在对抗Gromflom星人\N{\rEng}You're fighting the Gromflomites?
+Dialogue: 0,0:05:41.75,0:05:43.29,Chn,,0,0,0,,爸 他们想要接管整个银河系啊\N{\rEng}Dad, they're trying to take over the galaxy!
+Dialogue: 0,0:05:43.29,0:05:45.96,Chn,,0,0,0,,银河系里的每个人都想接管银河系\N{\rEng}Everybody in the galaxy tries to take over the galaxy.
+Dialogue: 0,0:05:45.96,0:05:49.23,Chn,,0,0,0,,在权力交替中独享世外桃源才是诀窍所在\N{\rEng}The trick is to be left alone by whoever succeeds.
+Dialogue: 0,0:05:49.23,0:05:50.49,Chn,,0,0,0,,呃 不过现在你正到逞英雄的阶段\N{\rEng}Eh, it's your hero phase.
+Dialogue: 0,0:05:50.50,0:05:52.43,Chn,,0,0,0,,我也经历过 你以后会成长的\N{\rEng}I had one, too. You'll outgrow it.
+Dialogue: 0,0:05:52.43,0:05:53.56,Chn,,0,0,0,,不 你会变\N{\rEng}No, you did.
+Dialogue: 0,0:05:53.57,0:05:55.23,Chn,,0,0,0,,我是不会变得对一切都漠不关心的\N{\rEng}I'm not gonna outgrow giving a shit.
+Dialogue: 0,0:05:55.23,0:05:57.03,Chn,,0,0,0,,有消息源称 这些自称为\N{\rEng}Sources tell us these aliens, who call themselves
+Dialogue: 0,0:05:57.04,0:06:00.17,Chn,,0,0,0,,新新银河联邦的外星人 将要炸毁这个星球\N{\rEng}the Neeeew Galactic Federation, will blow up the planet
+Dialogue: 0,0:06:00.17,0:06:02.84,Chn,,0,0,0,,除非那个名字很无聊的女人出来自首\N{\rEng}unless some woman with a very boring name gives herself up.
+Dialogue: 0,0:06:02.84,0:06:03.97,Chn,,0,0,0,,- 搞什么 - 你关心这些狗屎破事可关心得太好了\N{\rEng}- Oh, come on. - Way to give a shit.
+Dialogue: 0,0:06:03.98,0:06:05.84,Chn,,0,0,0,,下次 记得别拿你的母星擦屁股\N{\rEng}Next time, don't wipe it on your home planet.
+Dialogue: 0,0:06:05.84,0:06:07.58,Chn,,0,0,0,,我靠 他们要去追踪Beth了\N{\rEng}Oh shit. They're gonna track down Beth.
+Dialogue: 0,0:06:07.58,0:06:09.78,Chn,,0,0,0,,你是说 Beth的克隆体吧\N{\rEng}You mean... Beth's clone.
+Dialogue: 0,0:06:09.78,0:06:12.12,Chn,,0,0,0,,是啊 Beth的克隆体\N{\rEng}Right. Beth's clone.
+Dialogue: 0,0:06:12.12,0:06:13.82,Chn,,0,0,0,,我 我不是这么说的吗\N{\rEng}What -- What did I say?
+Dialogue: 0,0:06:16.99,0:06:19.66,Chn,,0,0,0,,能再见到你我是真心高兴的\N{\rEng}It really was nice seeing you again.
+Dialogue: 0,0:06:19.66,0:06:23.53,Chn,,0,0,0,,哇哦 耶 冲啊 蜜蜂队\N{\rEng}Whoo! Yeah! Go, Honey Bees!
+Dialogue: 0,0:06:23.53,0:06:25.53,Chn,,0,0,0,,练得不错 姐妹们\N{\rEng}Good practice, girls.
+Dialogue: 0,0:06:25.53,0:06:27.06,Chn,,0,0,0,,记住 现在我们正处干旱\N{\rEng}And remember, we are in a drought,
+Dialogue: 0,0:06:27.07,0:06:28.87,Chn,,0,0,0,,所以为了省水大家要组团\N{\rEng}so be sure to shower as one big group
+Dialogue: 0,0:06:28.87,0:06:31.13,Chn,,0,0,0,,同时去洗澡喔\N{\rEng}at the exact same time.
+Dialogue: 0,0:06:32.40,0:06:33.94,Chn,,0,0,0,,澡堂失火 澡堂失火啦\N{\rEng}Shower fire! The shower's on fire!
+Dialogue: 0,0:06:33.94,0:06:35.54,Chn,,0,0,0,,靠边 姐妹们 我来搞定\N{\rEng}Step aside, girls! I got this!
+Dialogue: 0,0:06:42.15,0:06:43.28,Chn,,0,0,0,,你这个魔鬼\N{\rEng}You're a monster!
+Dialogue: 0,0:06:43.28,0:06:44.82,Chn,,0,0,0,,现在还想分享吗\N{\rEng}Still wanna share?
+Dialogue: 0,0:06:50.89,0:06:52.36,Chn,,0,0,0,,Morty Smith 举起手来\N{\rEng}Morty Smith, hands up.
+Dialogue: 0,0:06:52.36,0:06:54.82,Chn,,0,0,0,,你被逮捕了 罪名是反对\N{\rEng}You are under arrest for crimes against
+Dialogue: 0,0:06:54.83,0:06:57.09,Chn,,0,0,0,,新新进步银河联邦政府\N{\rEng}the New Improved Galactic Federation.
+Dialogue: 0,0:06:57.10,0:06:58.70,Chn,,0,0,0,,等下 啥 你是怎么做到的\N{\rEng}Wait. What? How are you doing that?
+Dialogue: 0,0:06:58.70,0:06:59.83,Chn,,0,0,0,,你不是念力者吧 对吧\N{\rEng}You're not a psychic, are you?
+Dialogue: 0,0:06:59.83,0:07:01.57,Chn,,0,0,0,,你有念力控制能力吗\N{\rEng}Do you have psychic powers?
+Dialogue: 0,0:07:01.57,0:07:03.90,Chn,,0,0,0,,- 呃 有啊 - 力量很强大吗\N{\rEng}- Uh, yes. - Are they strong powers?
+Dialogue: 0,0:07:03.90,0:07:05.50,Chn,,0,0,0,,我们只是想找你妈妈\N{\rEng}We're just looking for your mother.
+Dialogue: 0,0:07:05.50,0:07:07.04,Chn,,0,0,0,,你不会有能力 比如 让我们心脏骤停之类的吧 会吗\N{\rEng}You can't, like, stop our hearts, can you?
+Dialogue: 0,0:07:07.04,0:07:09.57,Chn,,0,0,0,,- 呃 我能 - 好吧 我们投降\N{\rEng}- Uh, I can. - Okay, we surrender.
+Dialogue: 0,0:07:09.58,0:07:11.91,Chn,,0,0,0,,Jerry 你是否认同 使用手偶\N{\rEng}Jerry, do you agree that the use of puppets
+Dialogue: 0,0:07:11.91,0:07:13.44,Chn,,0,0,0,,会显得自己又蠢又疯\N{\rEng}makes you seem dumb and crazy?
+Dialogue: 0,0:07:13.45,0:07:16.91,Chn,,0,0,0,,我认为“疯”这个字在心理治疗的时候不便乱说吧\N{\rEng}I don't think "crazy" is a responsible word to use in --
+Dialogue: 0,0:07:16.92,0:07:18.51,Chn,,0,0,0,,现在能说了 这就是疯了\N{\rEng}It is now. This is crazy.
+Dialogue: 0,0:07:18.52,0:07:19.38,Chn,,0,0,0,,你就是个疯子\N{\rEng}You're being crazy.
+Dialogue: 0,0:07:19.39,0:07:20.98,Chn,,0,0,0,,电视上的心理治疗都用手偶的\N{\rEng}They do it in therapy on TV.
+Dialogue: 0,0:07:20.99,0:07:24.52,Chn,,0,0,0,,呵 电视台还给英国人颁烘焙奖呢 Jerry\N{\rEng}Well, TV gives British people prizes for baking, Jerry.
+Dialogue: 0,0:07:29.06,0:07:31.19,Chn,,0,0,0,,- Tammy - 彤鸭 鳎米鸭 鳎米鸭\N{\rEng}- Tammy? - Tonya? Tammya? Tammya.
+Dialogue: 0,0:07:31.20,0:07:32.66,Chn,,0,0,0,,嗨 Smith夫人\N{\rEng}Hi, Mrs. Smith.
+Dialogue: 0,0:07:32.66,0:07:33.86,Chn,,0,0,0,,我更喜欢你这个发型\N{\rEng}I like your hair better this way.
+Dialogue: 0,0:07:33.87,0:07:36.00,Chn,,0,0,0,,- 肚子还好么 - 啥啊\N{\rEng}- How's the stomach? - What?
+Dialogue: 0,0:07:36.00,0:07:37.00,Chn,,0,0,0,,嘿\N{\rEng}Hey!
+Dialogue: 0,0:07:37.00,0:07:38.00,Chn,,0,0,0,,我就“嘿”了一声\N{\rEng}I only said "hey."
+Dialogue: 0,0:07:38.00,0:07:40.34,Chn,,0,0,0,,我也就能帮她到这份上了啊\N{\rEng}It's not like I can do more than that.
+Dialogue: 0,0:07:40.34,0:07:41.67,Chn,,0,0,0,,虽然我很想宰了你\N{\rEng}As much as I'd like to kill you,
+Dialogue: 0,0:07:41.67,0:07:44.21,Chn,,0,0,0,,但我的上司就你的反抗组织有话要问\N{\rEng}my superiors have some questions about the Defiance.
+Dialogue: 0,0:07:44.21,0:07:47.81,Chn,,0,0,0,,我才没有 我有个反抗组织么\N{\rEng}I don't have a -- I have a Defiance?
+Dialogue: 0,0:07:47.81,0:07:50.15,Chn,,0,0,0,,啊 天呐 我是克隆人\N{\rEng}Oh, God, I'm a clone.
+Dialogue: 0,0:07:50.15,0:07:51.28,Chn,,0,0,0,,你就这样抗辩吗\N{\rEng}That's your defense?
+Dialogue: 0,0:07:51.28,0:07:53.42,Chn,,0,0,0,,不 我的抗辩是“你咬我啊”\N{\rEng}No, my defense is eat me.
+Dialogue: 0,0:07:53.42,0:07:54.25,Chn,,0,0,0,,嘿\N{\rEng}Hey!
+Dialogue: 0,0:07:54.25,0:07:55.95,Chn,,0,0,0,,啊 怎么还打我\N{\rEng}Ah! We've been over this.
+Dialogue: 0,0:07:55.95,0:07:59.02,Chn,,0,0,0,,我就“嘿”了一声啊\N{\rEng}All I do is say "hey."
+Dialogue: 0,0:07:59.02,0:08:01.49,Chn,,0,0,0,,智能枪 把人类生命加进白名单\N{\rEng}Smart guns, white-list human life.
+Dialogue: 0,0:08:01.49,0:08:03.23,Chn,,0,0,0,,以及那个心理治疗师\N{\rEng}And the therapist.
+Dialogue: 0,0:08:09.10,0:08:11.10,Chn,,0,0,0,,Tammy 这间办公室 是帮我们一家\N{\rEng}Tammy, this is the office where my family works
+Dialogue: 0,0:08:11.10,0:08:13.17,Chn,,0,0,0,,- 变得更融洽的地方 - 所以呢 就是个圣地了么\N{\rEng}- to better itself. - What, and that makes it sacred?
+Dialogue: 0,0:08:13.17,0:08:14.70,Chn,,0,0,0,,并不是 所以我在此处部署了很多\N{\rEng}No, it makes it a place I've rigged with a lot
+Dialogue: 0,0:08:14.71,0:08:17.11,Chn,,0,0,0,,声控的紧急逃跑装置\N{\rEng}of voice-activated escape contingencies.
+Dialogue: 0,0:08:17.11,0:08:18.71,Chn,,0,0,0,,这些建议都很棒呢\N{\rEng}These are all good points.
+Dialogue: 0,0:08:18.71,0:08:20.84,Chn,,0,0,0,,我得好好审视下自己了\N{\rEng}I need to take a long look at myself.
+Dialogue: 0,0:08:23.98,0:08:25.38,Chn,,0,0,0,,我很想探讨下这个问题\N{\rEng}I'd like to discuss that.
+Dialogue: 0,0:08:25.38,0:08:26.58,Chn,,0,0,0,,我才不探讨问题\N{\rEng}I don't discuss problems,
+Dialogue: 0,0:08:26.58,0:08:27.45,Chn,,0,0,0,,我直接一把火烧掉\N{\rEng}I incinerate them.
+Dialogue: 0,0:08:27.45,0:08:29.65,Chn,,0,0,0,,各位快上车\N{\rEng}Everybody in the car.
+Dialogue: 0,0:08:29.66,0:08:31.52,Chn,,0,0,0,,我是说我家的各位 不是全世界\N{\rEng}Everybody in my family, not the world.
+Dialogue: 0,0:08:31.52,0:08:33.79,Chn,,0,0,0,,老天爷啊 王医生 边界意识呢\N{\rEng}Jesus, Wong. Boundaries.
+Dialogue: 0,0:08:35.66,0:08:37.73,Chn,,0,0,0,,这份工作配不上我\N{\rEng}I'm better than this job.
+Dialogue: 0,0:08:41.38,0:08:42.84,Chn,,0,0,0,,你就不能直接造个传送门么\N{\rEng}Can't you just make a portal?
+Dialogue: 0,0:08:42.85,0:08:44.58,Chn,,0,0,0,,你孩子还在地面上隐着形呢 Jerry\N{\rEng}Your children are down there invisible, Jerry.
+Dialogue: 0,0:08:44.58,0:08:46.91,Chn,,0,0,0,,“造个传送门”么 我后面坐着的是年度好爸爸啊\N{\rEng}"Make a portal"? Father of the year back here.
+Dialogue: 0,0:08:46.92,0:08:47.98,Chn,,0,0,0,,呵 真好意思说\N{\rEng}Well, you're one to talk.
+Dialogue: 0,0:08:47.98,0:08:49.52,Chn,,0,0,0,,你说过我不是克隆人的\N{\rEng}You told me I wasn't a clone.
+Dialogue: 0,0:08:49.52,0:08:51.45,Chn,,0,0,0,,你你你不是啊\N{\rEng}Y-You're not a clone.
+Dialogue: 0,0:08:51.45,0:08:54.49,Chn,,0,0,0,,- 那那货是谁 - 呃 克隆人呗\N{\rEng}- And who is that? - Uh, uh, a clone?
+Dialogue: 0,0:08:58.46,0:09:00.06,Chn,,0,0,0,,你何必克隆一个我出来\N{\rEng}Why would you make a clone of me
+Dialogue: 0,0:09:00.06,0:09:01.53,Chn,,0,0,0,,然后把她打发到宇宙中去\N{\rEng}just to send the clone into space?
+Dialogue: 0,0:09:01.53,0:09:03.33,Chn,,0,0,0,,你又不想离开 我就寻思\N{\rEng}Well, you didn't want to go, and I thought,
+Dialogue: 0,0:09:03.33,0:09:04.87,Chn,,0,0,0,,“行吧 没问题”\N{\rEng}"Okay, that's cool."
+Dialogue: 0,0:09:04.87,0:09:08.32,Chn,,0,0,0,,但转念一想 “你知道怎样会更有意思么 星际女儿如何”\N{\rEng}But then I thought, "Well, you know what would be even cooler is a space daughter,"
+Dialogue: 0,0:09:08.32,0:09:08.94,Chn,,0,0,0,,就 就造了一个\N{\rEng}s-so I made one.
+Dialogue: 0,0:09:08.94,0:09:11.07,Chn,,0,0,0,,我还在她脖子上安了个炸弹以防她回来\N{\rEng}And I put a bomb in her neck in case she ever came back.
+Dialogue: 0,0:09:11.07,0:09:12.21,Chn,,0,0,0,,年度好爸爸\N{\rEng}Father of the year.
+Dialogue: 0,0:09:12.21,0:09:13.61,Chn,,0,0,0,,她就不该回来\N{\rEng}She wasn't supposed to come back.
+Dialogue: 0,0:09:13.61,0:09:14.54,Chn,,0,0,0,,那她咋回来了\N{\rEng}Why did she?
+Dialogue: 0,0:09:14.54,0:09:15.74,Chn,,0,0,0,,呃 她发现了脖子上的炸弹\N{\rEng}Well, she found a bomb in her neck.
+Dialogue: 0,0:09:15.75,0:09:18.08,Chn,,0,0,0,,是你你回来不\N{\rEng}Wouldn't you?
+Dialogue: 0,0:09:18.08,0:09:20.01,Chn,,0,0,0,,- 年度好爸爸 - 你丫闭嘴\N{\rEng}- Father of the year. - Shut up!
+Dialogue: 0,0:09:20.02,0:09:21.35,Chn,,0,0,0,,我对你的信任耗尽了\N{\rEng}I'm tired of believing you.
+Dialogue: 0,0:09:21.35,0:09:23.02,Chn,,0,0,0,,- 我要去跟她谈 - 不 你不想\N{\rEng}- I want to talk to her. - No, you don't.
+Dialogue: 0,0:09:23.02,0:09:24.55,Chn,,0,0,0,,Jerry 帮帮我啊\N{\rEng}Jerry, do something.
+Dialogue: 0,0:09:24.55,0:09:26.12,Chn,,0,0,0,,嘿\N{\rEng}Hey.
+Dialogue: 0,0:09:30.49,0:09:31.63,Chn,,0,0,0,,他跟我说你是那个克隆体\N{\rEng}He told me you're the clone.
+Dialogue: 0,0:09:31.63,0:09:33.43,Chn,,0,0,0,,你觉得他是怎么跟我说的\N{\rEng}What do you think he told me?
+Dialogue: 0,0:09:33.43,0:09:35.96,Chn,,0,0,0,,- 你是克隆体是吗 - 哇 天真且迷人呢\N{\rEng}- You're the clone? - Wow, naive and attractive.
+Dialogue: 0,0:09:35.97,0:09:38.03,Chn,,0,0,0,,哇 疲倦却火辣呢\N{\rEng}Wow, jaded and hot.
+Dialogue: 0,0:09:39.50,0:09:40.97,Chn,,0,0,0,,我知道这样教育子女不对\N{\rEng}I know this is bad parenting,
+Dialogue: 0,0:09:40.97,0:09:42.77,Chn,,0,0,0,,但你们停止打架的话 爸爸就带你们去吃麦当劳\N{\rEng}but if you stop fighting, you both get McDonald's.
+Dialogue: 0,0:09:42.77,0:09:45.64,Chn,,0,0,0,,那不如我把我的大脑崩了 从她开始怎样\N{\rEng}How about I just blow my brains out, starting with hers?
+Dialogue: 0,0:09:45.64,0:09:47.04,Chn,,0,0,0,,好吧 那去温蒂汉堡 我们都爱温蒂\N{\rEng}Okay, Wendy's. We love Wendy's.
+Dialogue: 0,0:09:47.04,0:09:48.51,Chn,,0,0,0,,温蒂汉堡貌似还给了我们广告费呢\N{\rEng}I-I think they even gave us some money.
+Dialogue: 0,0:09:48.51,0:09:49.84,Chn,,0,0,0,,- 放下武器 - 别动 - 站住 趴下\N{\rEng}- Drop it. - Don't move! - Freeze! Get down!
+Dialogue: 0,0:09:49.85,0:09:51.91,Chn,,0,0,0,,- 趴在地上 - 趴在地上 - 别动\N{\rEng}- On the ground! - On the ground! - Don't move!
+Dialogue: 0,0:09:51.92,0:09:54.32,Chn,,0,0,0,,都给我闭嘴 你们说的全都他妈不一样\N{\rEng}Everybody, shut up! You're all saying different shit.
+Dialogue: 0,0:09:54.32,0:09:56.18,Chn,,0,0,0,,等下 所以有两个她么\N{\rEng}Wait, so there are two of them?
+Dialogue: 0,0:09:56.19,0:09:58.45,Chn,,0,0,0,,更重要的是 哪一个是我的\N{\rEng}More importantly, which one is mine?
+Dialogue: 0,0:09:58.45,0:09:59.92,Chn,,0,0,0,,都不是 你个沙猪男\N{\rEng}Uh, neither, chauvinist.
+Dialogue: 0,0:09:59.92,0:10:02.06,Chn,,0,0,0,,无所谓 都抓起来\N{\rEng}Whatever. Take them both.
+Dialogue: 0,0:10:05.53,0:10:07.80,Chn,,0,0,0,,光还挺酷 但咱们谈谈条件吧\N{\rEng}Cool beam. But let's bargain.
+Dialogue: 0,0:10:07.80,0:10:09.06,Chn,,0,0,0,,你们真正的目标是我\N{\rEng}I'm the one you really want.
+Dialogue: 0,0:10:09.07,0:10:10.26,Chn,,0,0,0,,你说啥\N{\rEng}Excuse me?
+Dialogue: 0,0:10:10.27,0:10:11.47,Chn,,0,0,0,,全宇宙最聪明的人\N{\rEng}Uh, smartest man in the universe?
+Dialogue: 0,0:10:11.47,0:10:13.13,Chn,,0,0,0,,跨维度旅行的秘密\N{\rEng}Secret to interdimensional travel?
+Dialogue: 0,0:10:13.14,0:10:14.34,Chn,,0,0,0,,问问你头头们去吧\N{\rEng}Ask your bosses.
+Dialogue: 0,0:10:14.34,0:10:15.80,Chn,,0,0,0,,我的头头们都是虫子 Rick\N{\rEng}My bosses are bugs, Rick.
+Dialogue: 0,0:10:15.81,0:10:17.87,Chn,,0,0,0,,老的都让你杀了 新的才到我一半年纪\N{\rEng}You killed the old ones. The new ones are half my age.
+Dialogue: 0,0:10:17.87,0:10:21.94,Chn,,0,0,0,,他们明白只要让你落单 你就只是零威胁\N{\rEng}They know if you're left alone, you're a non-threat.
+Dialogue: 0,0:10:21.95,0:10:23.74,Chn,,0,0,0,,- 啊哦 - 我们带走目标了\N{\rEng}- Oofa! - We got the payload.
+Dialogue: 0,0:10:23.75,0:10:25.28,Chn,,0,0,0,,可以启动NX-5了\N{\rEng}Fire up the NX-5.
+Dialogue: 0,0:10:25.28,0:10:26.55,Chn,,0,0,0,,地球要完蛋咯\N{\rEng}Earth's going ta-ta.
+Dialogue: 0,0:10:26.55,0:10:29.28,Chn,,0,0,0,,你也许又该找个新宇宙了\N{\rEng}You might want to do that thing where you find a new universe
+Dialogue: 0,0:10:29.29,0:10:30.42,Chn,,0,0,0,,然后自个儿吸屌去吧\N{\rEng}where you can suck yourself off.
+Dialogue: 0,0:10:30.42,0:10:31.75,Chn,,0,0,0,,轮得到你来告诉我做什么吗\N{\rEng}You can't tell me what to do.
+Dialogue: 0,0:10:31.75,0:10:33.35,Chn,,0,0,0,,真棒 他拒捕了 我们能朝他开枪了\N{\rEng}Awesome. He resisted. We can shoot him.
+Dialogue: 0,0:10:33.36,0:10:35.96,Chn,,0,0,0,,- 啥 - 配合我 Jerry\N{\rEng}- Wha? - Just go with it, Jerry.
+Dialogue: 0,0:10:35.96,0:10:38.43,Chn,,0,0,0,,所有人 放下枪 除了Jerry\N{\rEng}Everybody, drop your guns -- except for Jerry!
+Dialogue: 0,0:10:38.43,0:10:40.43,Chn,,0,0,0,,傻逼 不愧是你\N{\rEng}Fucking classic.
+Dialogue: 0,0:10:44.50,0:10:46.10,Chn,,0,0,0,,- 哦操 Morty - 还有Summer\N{\rEng}- Holy shit, Morty. - And Summer.
+Dialogue: 0,0:10:46.10,0:10:47.97,Chn,,0,0,0,,我们 我们并肩作战了 这就是我们俩的人物弧\N{\rEng}W-We worked together. That's -- that's our arc.
+Dialogue: 0,0:10:47.97,0:10:50.57,Chn,,0,0,0,,我们从姐弟 到隐形人 又进化到了并肩作战\N{\rEng}We went from siblings to invisible to working together.
+Dialogue: 0,0:10:50.57,0:10:52.37,Chn,,0,0,0,,没有《公民凯恩》进化得那么好 但有啥可攀比的呢\N{\rEng}It's not "Citizen Kane," but why compete
+Dialogue: 0,0:10:52.38,0:10:54.71,Chn,,0,0,0,,他跟这发生的事儿比起来 你懂的吧\N{\rEng}with whatever's going on here, you know?
+Dialogue: 0,0:11:00.58,0:11:03.92,Chn,,0,0,0,,你搞得我得参加一场婚礼\N{\rEng}You made me go to a wedding.
+Dialogue: 0,0:11:03.92,0:11:06.05,Chn,,0,0,0,,还杀了我最好的朋友 呃我应该先说这个的\N{\rEng}And you killed my best friend. I shoulda said that one first.
+Dialogue: 0,0:11:06.06,0:11:11.33,Chn,,0,0,0,,恭喜地球正在被NX-5毁灭\N{\rEng}Congratulations, Earth, on being destroyed by the NX-5,
+Dialogue: 0,0:11:11.33,0:11:14.13,Chn,,0,0,0,,由威格牛仔裤冠名播出\N{\rEng}brought to you by Wrangler.
+Dialogue: 0,0:11:17.40,0:11:19.87,Chn,,0,0,0,,诶 我猜银河系的头号通缉哺乳动物\N{\rEng}Ugh, guess the galaxy's most-wanted mammal
+Dialogue: 0,0:11:19.87,0:11:22.07,Chn,,0,0,0,,需要她爸爸给她换尿布了\N{\rEng}needs her daddy to come change her diapie.
+Dialogue: 0,0:11:22.07,0:11:23.74,Chn,,0,0,0,,来吧孩子们 我们他妈的\N{\rEng}Come on, kids, we have to go do
+Dialogue: 0,0:11:23.74,0:11:26.84,Chn,,0,0,0,,得整一段《星球大战》了\N{\rEng}a fucking piece of shit "Star Wars."
+Dialogue: 0,0:11:29.55,0:11:31.41,Chn,,0,0,0,,Zeta 99-2号 注意\N{\rEng}Attention, Zeta 99-2.
+Dialogue: 0,0:11:31.41,0:11:33.61,Chn,,0,0,0,,我们知道你的船是偷来的 立即退下\N{\rEng}We know you have a stolen ship. Stand down.
+Dialogue: 0,0:11:33.62,0:11:36.32,Chn,,0,0,0,,哦 我现在又不是零威胁了吗\N{\rEng}Oh, am I not a non-threat now?
+Dialogue: 0,0:11:44.09,0:11:45.89,Chn,,0,0,0,,喂 你还没获准降落\N{\rEng}Hey, you are not cleared to land.
+Dialogue: 0,0:11:45.90,0:11:48.10,Chn,,0,0,0,,- 我们要开火了 - 坚守住阵地\N{\rEng}- We will open fire. - Hold your ground, men.
+Dialogue: 0,0:11:48.10,0:11:49.63,Chn,,0,0,0,,你们会成为英雄\N{\rEng}You'll be heroes.
+Dialogue: 0,0:11:52.64,0:11:56.10,Chn,,0,0,0,,Summer 试试看用你高中朋友的死脸扫描一下能不能解锁这道门\N{\rEng}Summer, try unlocking that door by scanning your high-school friend's dead face.
+Dialogue: 0,0:11:56.11,0:11:57.24,Chn,,0,0,0,,额 我 我得尿尿\N{\rEng}Uh, I have -- I have to pee.
+Dialogue: 0,0:11:57.24,0:11:58.97,Chn,,0,0,0,,尿地板上吧 这是个死星\N{\rEng}Pee on the floor. It's a Death Star.
+Dialogue: 0,0:11:58.97,0:12:01.38,Chn,,0,0,0,,好吧 但不是有义军同盟 还有那什么什么嘛\N{\rEng}Okay, but there's rebellion and then there's --
+Dialogue: 0,0:12:01.38,0:12:02.84,Chn,,0,0,0,,- 老爸 给你 - 太棒了\N{\rEng}- Here, Dad. - Perfect.
+Dialogue: 0,0:12:02.85,0:12:05.78,Chn,,0,0,0,,我这样不对吗\N{\rEng}What am I doing wrong?
+Dialogue: 0,0:12:05.78,0:12:08.25,Chn,,0,0,0,,呃 她的眼睛是闭上的 Morty 把她左眼扒开\N{\rEng}Ugh, her eyes are closed. Morty, open the left one.
+Dialogue: 0,0:12:08.25,0:12:10.78,Chn,,0,0,0,,我来扒右眼\N{\rEng}I've got the right.
+Dialogue: 0,0:12:10.79,0:12:12.92,Chn,,0,0,0,,她死得就像她活着的戏份一样拖沓\N{\rEng}She died the way she lived, overserialized.
+Dialogue: 0,0:12:12.92,0:12:14.32,Chn,,0,0,0,,我去解救你们的妈妈和克隆体\N{\rEng}I'm gonna rescue your mom and her clone
+Dialogue: 0,0:12:14.32,0:12:15.66,Chn,,0,0,0,,不告诉她们谁是谁\N{\rEng}without revealing which is which.
+Dialogue: 0,0:12:15.66,0:12:17.53,Chn,,0,0,0,,你俩去找NX-5然后把它关掉\N{\rEng}You two find the NX-5 and shut it down.
+Dialogue: 0,0:12:17.53,0:12:18.99,Chn,,0,0,0,,不过吧 别在尝试的途中死掉 地球有无穷多个呢\N{\rEng}I mean, don't die trying. There's infinite Earths.
+Dialogue: 0,0:12:18.99,0:12:20.86,Chn,,0,0,0,,如果你们能救下这个 那还挺好的 是个飞来福\N{\rEng}If you can save this one, it's gravy.
+Dialogue: 0,0:12:20.86,0:12:22.26,Chn,,0,0,0,,梦之队再度起航\N{\rEng}Dream team rides again!
+Dialogue: 0,0:12:22.27,0:12:24.13,Chn,,0,0,0,,确实 我们就像卢克和莱娅\N{\rEng}Oh, yeah, we're like Luke and Leia.
+Dialogue: 0,0:12:24.13,0:12:25.33,Chn,,0,0,0,,呃 抛开亲嘴的部分\N{\rEng}Uh, except no kissing part.
+Dialogue: 0,0:12:25.33,0:12:27.00,Chn,,0,0,0,,换个别的有名的兄妹姐弟组合\N{\rEng}What's another famous brother-sister team?
+Dialogue: 0,0:12:27.00,0:12:27.94,Chn,,0,0,0,,《战慄糖果屋》的汉塞尔和格蕾塔吗\N{\rEng}Uh, Hansel and Gretel?
+Dialogue: 0,0:12:27.94,0:12:29.40,Chn,,0,0,0,,算了 那俩肯定上床了\N{\rEng}Yeah, right, those two were fucking.
+Dialogue: 0,0:12:29.41,0:12:30.54,Chn,,0,0,0,,老爸 我们需要那个隐形腰带\N{\rEng}Dad, we need the belt.
+Dialogue: 0,0:12:30.54,0:12:31.87,Chn,,0,0,0,,有你俩看着我尿不出来\N{\rEng}I can't go with you guys watching.
+Dialogue: 0,0:12:31.88,0:12:34.08,Chn,,0,0,0,,- 你是隐形的啊 - 万一尿不隐形呢\N{\rEng}- You're invisible. - What if the pee isn't?
+Dialogue: 0,0:12:34.08,0:12:36.41,Chn,,0,0,0,,算了 我们不需要隐形腰带了\N{\rEng}You know what? We don't need invisibility.
+Dialogue: 0,0:12:36.41,0:12:38.15,Chn,,0,0,0,,并肩作战就是我们的腰带\N{\rEng}Working together is our belt.
+Dialogue: 0,0:12:38.15,0:12:39.41,Chn,,0,0,0,,这就是我们的人物弧了 上吧\N{\rEng}That's our arc. Let's do it.
+Dialogue: 0,0:12:39.42,0:12:40.48,Chn,,0,0,0,,我还要吹着口哨走呢\N{\rEng}I'm gonna go ahead and whistle.
+Dialogue: 0,0:12:40.48,0:12:42.22,Chn,,0,0,0,,我的感觉就是这么棒\N{\rEng}That's how good I feel.
+Dialogue: 0,0:12:47.29,0:12:49.52,Chn,,0,0,0,,天啊 我就知道\N{\rEng}Oh, God. I knew it.
+Dialogue: 0,0:12:51.36,0:12:53.96,Chn,,0,0,0,,呃 这儿的地面不平\N{\rEng}Ugh, this floor isn't level.
+Dialogue: 0,0:12:55.43,0:12:56.96,Chn,,0,0,0,,他们会虐待我们吗\N{\rEng}Are they gonna torture us?
+Dialogue: 0,0:12:56.97,0:12:58.97,Chn,,0,0,0,,除非你打算告诉他们我知道些什么\N{\rEng}Unless you plan on telling them what I know.
+Dialogue: 0,0:12:58.97,0:13:01.17,Chn,,0,0,0,,最后一次猜谁是克隆的机会了\N{\rEng}Last chance to guess who was the clone.
+Dialogue: 0,0:13:01.17,0:13:02.30,Chn,,0,0,0,,你才是他女儿\N{\rEng}You're his daughter.
+Dialogue: 0,0:13:02.31,0:13:03.64,Chn,,0,0,0,,你眼睛里也有那种\N{\rEng}Just something about the eyes,
+Dialogue: 0,0:13:03.64,0:13:06.37,Chn,,0,0,0,,无耻的抛弃家庭的感觉\N{\rEng}the shameless abandonment of your family.
+Dialogue: 0,0:13:06.38,0:13:08.24,Chn,,0,0,0,,那我又是怎么做到不带愧疚的呢\N{\rEng}However can I live with myself?
+Dialogue: 0,0:13:08.24,0:13:11.04,Chn,,0,0,0,,我提个理论 我被你爸设计成了我行我素没有愧疚的人\N{\rEng}One theory -- I was designed by your father to live with myself,
+Dialogue: 0,0:13:11.05,0:13:15.25,Chn,,0,0,0,,而这意味着 当时是你以自由意志决定的 把梦想打碎了和着劣质红酒和恐龙意面往肚子里咽\N{\rEng}which would mean you made a conscious choice to swallow your dreams with cheap wine and dinosaur pasta.
+Dialogue: 0,0:13:15.25,0:13:16.85,Chn,,0,0,0,,你知道Jerry就喜欢这种\N{\rEng}You know that's the kind Jerry likes,
+Dialogue: 0,0:13:16.85,0:13:18.92,Chn,,0,0,0,,就像我知道你那仅有的该死梦想\N{\rEng}same way I know the only Goddamn dream you'll ever follow
+Dialogue: 0,0:13:18.92,0:13:20.65,Chn,,0,0,0,,就是得到你垃圾爸爸的认可\N{\rEng}is your shitty father's approval.
+Dialogue: 0,0:13:20.66,0:13:22.59,Chn,,0,0,0,,你给你的垃圾爸爸接柠檬水\N{\rEng}You fetch your shitty father's lemonade.
+Dialogue: 0,0:13:22.59,0:13:24.66,Chn,,0,0,0,,你打扮得像你垃圾爸爸三十岁时候的样子\N{\rEng}You cosplay as your shitty father in his 30s.
+Dialogue: 0,0:13:24.66,0:13:26.06,Chn,,0,0,0,,红色警报 红色警报\N{\rEng}Red alert. Red alert.
+Dialogue: 0,0:13:26.06,0:13:28.26,Chn,,0,0,0,,Rick Sanchez\N{\rEng}Rick Sanchez --
+Dialogue: 0,0:13:28.26,0:13:30.13,Chn,,0,0,0,,不如说是死亡警报 还有啥 还有啥\N{\rEng}More like dead alert. What else? What else?
+Dialogue: 0,0:13:30.13,0:13:31.53,Chn,,0,0,0,,我在我记事本App里写了些东西\N{\rEng}I wrote some stuff down in my Notes app.
+Dialogue: 0,0:13:31.53,0:13:33.40,Chn,,0,0,0,,让我找找\N{\rEng}Let me just find it.
+Dialogue: 0,0:13:33.40,0:13:36.47,Chn,,0,0,0,,不管了 Beth 如果 如果你们俩有一个活着\N{\rEng}Screw it. Beth, if -- if one of you is still alive,
+Dialogue: 0,0:13:36.47,0:13:38.07,Chn,,0,0,0,,你就是我的真女儿\N{\rEng}you're my real daughter.
+Dialogue: 0,0:13:38.07,0:13:39.61,Chn,,0,0,0,,如果你俩都活着 别伤害另一个\N{\rEng}If you're both alive, don't hurt the other one.
+Dialogue: 0,0:13:39.61,0:13:41.28,Chn,,0,0,0,,她只是个克隆 她不值得\N{\rEng}She's just a clone. She's not worth it.
+Dialogue: 0,0:13:41.28,0:13:42.54,Chn,,0,0,0,,我来了 宝贝\N{\rEng}I'm coming, baby.
+Dialogue: 0,0:13:42.55,0:13:44.75,Chn,,0,0,0,,- 那坨狗屎 - 那坨狗屎\N{\rEng}- That piece of shit. - That piece of shit.
+Dialogue: 0,0:13:44.75,0:13:46.95,Chn,,0,0,0,,话说 我是回来杀他的\N{\rEng}I came back kill him, you know.
+Dialogue: 0,0:13:46.95,0:13:47.88,Chn,,0,0,0,,我要帮忙\N{\rEng}I'd like to help.
+Dialogue: 0,0:13:47.88,0:13:49.82,Chn,,0,0,0,,- 踢我眉心 - 从这儿吗\N{\rEng}- Kick me between my eyes. - From here?
+Dialogue: 0,0:13:49.82,0:13:53.42,Chn,,0,0,0,,噢 难不成你为了省钱给Jerry买成长快乐 连瑜伽课都不上了吗\N{\rEng}Oh, you dropped yoga so you could buy Jerry more Flintstones Vitam--
+Dialogue: 0,0:13:57.16,0:14:00.23,Chn,,0,0,0,,噢 我不太喜欢这个巨大的打斗仓\N{\rEng}Oh, I do not like the looks of this giant fight chamber.
+Dialogue: 0,0:14:06.77,0:14:09.64,Chn,,0,0,0,,- 鸟人 - 我现在是凤凰人了\N{\rEng}- Bird Person? - It is now Phoenix Person.
+Dialogue: 0,0:14:09.64,0:14:11.04,Chn,,0,0,0,,你和他们一伙了\N{\rEng}You're working for them?
+Dialogue: 0,0:14:11.04,0:14:12.44,Chn,,0,0,0,,他们都对你做了些什么 BP\N{\rEng}What did they do to you, BP?
+Dialogue: 0,0:14:12.44,0:14:14.71,Chn,,0,0,0,,我现在是PP了 Tammy在哪\N{\rEng}It is now PP. Where is Tammy?
+Dialogue: 0,0:14:14.71,0:14:17.44,Chn,,0,0,0,,喔 别担心 我把她杀了\N{\rEng}Oh, don't worry about her. I killed her.
+Dialogue: 0,0:14:17.45,0:14:19.71,Chn,,0,0,0,,- 我爱过她 - 真的吗 哈\N{\rEng}- I loved her. - Really? Huh.
+Dialogue: 0,0:14:19.72,0:14:21.45,Chn,,0,0,0,,那我能给你起个别名吗\N{\rEng}Then can I suggest, as an alternate name,
+Dialogue: 0,0:14:21.45,0:14:23.05,Chn,,0,0,0,,疯舔狗人\N{\rEng}Crazy Pussy Whipped Person?
+Dialogue: 0,0:14:37.93,0:14:40.67,Chn,,0,0,0,,有意思 一直以来 我都好奇要是我俩打起来谁能赢\N{\rEng}It's funny. I always wondered who would win if we ever fought.
+Dialogue: 0,0:14:40.67,0:14:43.14,Chn,,0,0,0,,那一直以来 你都是个损友\N{\rEng}Then you were always a bad friend.
+Dialogue: 0,0:14:51.35,0:14:52.61,Chn,,0,0,0,,Morty 我们只有一个手雷\N{\rEng}Morty, we had one grenade.
+Dialogue: 0,0:14:52.62,0:14:54.08,Chn,,0,0,0,,- 他有枪 - 算了吧\N{\rEng}- He had a gun. - Whatever.
+Dialogue: 0,0:14:54.08,0:14:56.02,Chn,,0,0,0,,来吧\N{\rEng}Come on.
+Dialogue: 0,0:14:56.02,0:14:57.69,Chn,,0,0,0,,- 你听到什么了吗 - 不重要\N{\rEng}- Did you hear something? - Doesn't matter.
+Dialogue: 0,0:14:57.69,0:14:59.22,Chn,,0,0,0,,如果有人来了 那他们肯定是来停下这个激光的\N{\rEng}If anyone's around, they're here to stop the laser,
+Dialogue: 0,0:14:59.22,0:15:01.29,Chn,,0,0,0,,他们要想动手的话 我们肯定会发现\N{\rEng}and they can't do it without us seeing them.
+Dialogue: 0,0:15:01.29,0:15:02.96,Chn,,0,0,0,,合作是我们的腰带\N{\rEng}"Working together is our belt"?
+Dialogue: 0,0:15:02.96,0:15:04.89,Chn,,0,0,0,,- 你把它给出去了 - 你说我们用不到了\N{\rEng}- You gave it away! - You said we didn't need it.
+Dialogue: 0,0:15:04.89,0:15:06.16,Chn,,0,0,0,,真希望你没生出来过\N{\rEng}I wish you were never born.
+Dialogue: 0,0:15:06.16,0:15:07.43,Chn,,0,0,0,,你还是意外怀孕呢\N{\rEng}You were an accident.
+Dialogue: 0,0:15:09.10,0:15:10.56,Chn,,0,0,0,,为啥有些裤子没\N{\rEng}How come some of the pants are --
+Dialogue: 0,0:15:10.57,0:15:12.43,Chn,,0,0,0,,NX-5没法摧毁威格牛仔裤\N{\rEng}The NX-5 can't destroy Wrangler jeans.
+Dialogue: 0,0:15:12.44,0:15:16.17,Chn,,0,0,0,,那 是真的没法摧毁还是只是程序设计成这样\N{\rEng}Like, it literally can't destroy them or it's programmed not to?
+Dialogue: 0,0:15:16.17,0:15:17.64,Chn,,0,0,0,,天 你说呢\N{\rEng}Gee, what do you think?
+Dialogue: 0,0:15:50.61,0:15:52.27,Chn,,0,0,0,,你这个马医 杀虫也挺厉害\N{\rEng}You kill good bug, for a horse doctor.
+Dialogue: 0,0:15:52.28,0:15:53.67,Chn,,0,0,0,,谢谢了 我\N{\rEng}Thanks, me.
+Dialogue: 0,0:15:53.68,0:15:56.34,Chn,,0,0,0,,也许哪天我们可以像《天生一对》里面那样玩玩\N{\rEng}Maybe we could do, like, a "Parent Trap" thing together sometime.
+Dialogue: 0,0:15:56.35,0:15:57.88,Chn,,0,0,0,,只要你指的是林赛·罗韩那版就行\N{\rEng}As long as you mean the Lindsay Lohan version.
+Dialogue: 0,0:15:57.88,0:15:59.08,Chn,,0,0,0,,那肯定\N{\rEng}Naturally.
+Dialogue: 0,0:16:01.15,0:16:03.08,Chn,,0,0,0,,你觉得他们会拿那些牛仔裤干什么\N{\rEng}What do you think they do with all those jeans?
+Dialogue: 0,0:16:03.09,0:16:05.62,Chn,,0,0,0,,- 做成外套吗 - 这可不是要省牛仔布\N{\rEng}- Make them into jackets? - It's not about conserving denim.
+Dialogue: 0,0:16:05.62,0:16:07.02,Chn,,0,0,0,,这是营销 就像 呃\N{\rEng}It's marketing. Like, uh,
+Dialogue: 0,0:16:07.02,0:16:08.76,Chn,,0,0,0,,“NX-5 能摧毁整个星球\N{\rEng}"The NX-5 destroys the whole planet
+Dialogue: 0,0:16:08.76,0:16:10.16,Chn,,0,0,0,,除了威格牛仔裤”\N{\rEng}except for the Wrangler jeans."
+Dialogue: 0,0:16:10.16,0:16:12.96,Chn,,0,0,0,,因为它们太坚韧了 比激光还要坚韧吗\N{\rEng}Because they're so tough. Tougher than the laser?
+Dialogue: 0,0:16:12.96,0:16:14.83,Chn,,0,0,0,,- 太傻了 - 但确实你就记住它了\N{\rEng}- Stupid. - You're talking about it.
+Dialogue: 0,0:16:14.83,0:16:16.56,Chn,,0,0,0,,嗯 你说得对 我 我中计了\N{\rEng}Mm, you're right. They -- they got me.
+Dialogue: 0,0:16:16.57,0:16:17.90,Chn,,0,0,0,,嘿 这里 看着我\N{\rEng}Hey, over here. Look at me.
+Dialogue: 0,0:16:17.90,0:16:19.70,Chn,,0,0,0,,你有看到有个没穿裤子的小孩跑过去了吗\N{\rEng}Did you just see a pantsless little boy run by?
+Dialogue: 0,0:16:19.70,0:16:21.10,Chn,,0,0,0,,我不会再吃你那套了\N{\rEng}I'm not falling for that again.
+Dialogue: 0,0:16:21.10,0:16:22.84,Chn,,0,0,0,,我之前是隐形的 现在反过来了\N{\rEng}I used to be invisible, but now I'm the opposite.
+Dialogue: 0,0:16:22.84,0:16:24.17,Chn,,0,0,0,,办了他 不是污污的那个办\N{\rEng}Get him. But not in a weird way.
+Dialogue: 0,0:16:24.17,0:16:25.51,Chn,,0,0,0,,你愣是搞污了\N{\rEng}You made it weird.
+Dialogue: 0,0:16:31.18,0:16:33.78,Chn,,0,0,0,,检测到NX-5联合赞助商\N{\rEng}NX-5 corporate sponsor detected.
+Dialogue: 0,0:16:33.78,0:16:35.52,Chn,,0,0,0,,无法穿透威格牛仔裤\N{\rEng}Cannot penetrate Wranglers.
+Dialogue: 0,0:16:35.52,0:16:36.78,Chn,,0,0,0,,质量过硬\N{\rEng}Built too tough.
+Dialogue: 0,0:16:36.79,0:16:39.59,Chn,,0,0,0,,质量  过  硬\N{\rEng}Built... too... tough.
+Dialogue: 0,0:16:41.12,0:16:42.99,Chn,,0,0,0,,我杀了他们 我在 我在屏幕外杀了他们\N{\rEng}I killed them! I-I did -- I did it offscreen.
+Dialogue: 0,0:16:42.99,0:16:44.39,Chn,,0,0,0,,天杀的 Morty 把你内裤弄好\N{\rEng}God damn it. Morty, fix your underwear.
+Dialogue: 0,0:16:44.39,0:16:45.73,Chn,,0,0,0,,我有那么几秒钟看到你的蛋了\N{\rEng}I saw your balls for a second.
+Dialogue: 0,0:16:45.73,0:16:46.93,Chn,,0,0,0,,那是你的问题\N{\rEng}That's on you.
+Dialogue: 0,0:16:46.93,0:16:48.66,Chn,,0,0,0,,我为什么不能见你的父母\N{\rEng}Why can't I meet your parents?
+Dialogue: 0,0:16:48.66,0:16:49.66,Chn,,0,0,0,,我会很丢你的脸吗\N{\rEng}Are you embarrassed of me?
+Dialogue: 0,0:16:49.67,0:16:51.27,Chn,,0,0,0,,不 他们会很丢我的脸\N{\rEng}No, of them.
+Dialogue: 0,0:17:08.75,0:17:10.88,Chn,,0,0,0,,没想过会这样挂掉\N{\rEng}Never thought this was how I'd die.
+Dialogue: 0,0:17:10.89,0:17:12.09,Chn,,0,0,0,,我们距离威尼斯还远着呢\N{\rEng}We're nowhere near Venice,
+Dialogue: 0,0:17:12.09,0:17:13.82,Chn,,0,0,0,,你也不是个穿雨衣的侏儒\N{\rEng}and you're not a dwarf in a raincoat.
+Dialogue: 0,0:17:17.69,0:17:21.50,Chn,,0,0,0,,退后 在我们痛扁他之前 你可不能杀了他 鸟人\N{\rEng}Step back. You're not killing him till we kick his ass, Bird Person.
+Dialogue: 0,0:17:21.50,0:17:23.43,Chn,,0,0,0,,我的名字是凤凰人\N{\rEng}My name is Phoenix Person.
+Dialogue: 0,0:17:23.43,0:17:24.70,Chn,,0,0,0,,没人会这么称呼你的 蠢货\N{\rEng}No one's calling you that. Dumb.
+Dialogue: 0,0:17:24.70,0:17:29.70,Chn,,0,0,0,,一家人都这么喜欢找茬 但是又这么差劲 可真令我着迷\N{\rEng}It fascinates me that an entire family can be this critical and suck this much.
+Dialogue: 0,0:17:44.52,0:17:45.85,Chn,,0,0,0,,停 鸟人\N{\rEng}Bird Person, stop.
+Dialogue: 0,0:17:45.86,0:17:48.26,Chn,,0,0,0,,是我 那个Tammy小妞\N{\rEng}It's me, that Tammy girl.
+Dialogue: 0,0:17:48.26,0:17:50.66,Chn,,0,0,0,,Tammy 真没料到\N{\rEng}Tammy, this is unexpected.
+Dialogue: 0,0:17:50.66,0:17:51.99,Chn,,0,0,0,,我听说你死了\N{\rEng}I was told you were dead.
+Dialogue: 0,0:17:52.00,0:17:55.06,Chn,,0,0,0,,那 百 分 之 百 不是真的\N{\rEng}That is ab-so-lute-ly not true.
+Dialogue: 0,0:17:55.06,0:17:58.13,Chn,,0,0,0,,我比过去更活泛了\N{\rEng}I'm more alive than I've ever been.
+Dialogue: 0,0:17:58.13,0:18:00.53,Chn,,0,0,0,,你的行为真怪异\N{\rEng}You are behaving rather strangely.
+Dialogue: 0,0:18:00.54,0:18:02.80,Chn,,0,0,0,,我 怪么 哦 我天\N{\rEng}Me? Strange? Oh, my.
+Dialogue: 0,0:18:02.81,0:18:04.41,Chn,,0,0,0,,又有谁正常呢 真的\N{\rEng}Well, who's normal, really?
+Dialogue: 0,0:18:04.41,0:18:07.01,Chn,,0,0,0,,过来吧 你这个骨头中空的大羽毛脑袋\N{\rEng}Now, come here, you big hollow-boned featherhead.
+Dialogue: 0,0:18:07.01,0:18:09.48,Chn,,0,0,0,,快来尝尝我甜美的屁股\N{\rEng}Let me give you some of this sweet ass.
+Dialogue: 0,0:18:18.82,0:18:20.49,Chn,,0,0,0,,用手偶戏反败为胜\N{\rEng}Saved the day with puppeting.
+Dialogue: 0,0:18:20.49,0:18:21.82,Chn,,0,0,0,,唯一像回事的人物弧\N{\rEng}Only one with a decent arc.
+Dialogue: 0,0:18:21.83,0:18:23.42,Chn,,0,0,0,,他确实也有好的时候\N{\rEng}He does have his moments.
+Dialogue: 0,0:18:23.43,0:18:24.49,Chn,,0,0,0,,妈 爸\N{\rEng}Mom, Dad!
+Dialogue: 0,0:18:24.49,0:18:26.56,Chn,,0,0,0,,妈 我们做到了\N{\rEng}Mom. Uh, we did it!
+Dialogue: 0,0:18:26.56,0:18:27.96,Chn,,0,0,0,,Morty变得超级可见\N{\rEng}Morty became super visible!
+Dialogue: 0,0:18:27.96,0:18:29.76,Chn,,0,0,0,,Summer把我牛仔裤放激光里了\N{\rEng}Summer put my jeans in a laser!
+Dialogue: 0,0:18:29.77,0:18:31.97,Chn,,0,0,0,,Morty 看看你的小蛋蛋\N{\rEng}Morty, look at your little balls!
+Dialogue: 0,0:18:31.97,0:18:35.04,Chn,,0,0,0,,- 我知道 - 快让妈抱抱 孩子们\N{\rEng}- I know! - Bring it in here, guys.
+Dialogue: 0,0:18:35.04,0:18:37.17,Chn,,0,0,0,,牛逼 这玩意是双涡轮的\N{\rEng}Damn, this thing has twin turbines?
+Dialogue: 0,0:18:37.17,0:18:39.77,Chn,,0,0,0,,如果你让我开 我就原谅你遗弃我们\N{\rEng}I'll forgive you for abandoning us if you let me drive it.
+Dialogue: 0,0:18:39.78,0:18:42.98,Chn,,0,0,0,,- 我无所谓 我本来只是打算给你些太空烟的 - 我喜欢有两个妈妈\N{\rEng}- That works for me -- I was just gonna give you space cigarettes. - I love having two moms.
+Dialogue: 0,0:18:42.98,0:18:44.71,Chn,,0,0,0,,而我喜欢有两个老婆\N{\rEng}And I love having two wives.
+Dialogue: 0,0:18:44.71,0:18:45.98,Chn,,0,0,0,,永远不可能 Jerry\N{\rEng}Never gonna happen, Jerry.
+Dialogue: 0,0:18:45.98,0:18:49.12,Chn,,0,0,0,,那个百爪挠心的真相你们俩混蛋做好心理准备了么\N{\rEng}You jerk-offs ready to get the answers to your burning questions?
+Dialogue: 0,0:18:49.12,0:18:53.39,Chn,,0,0,0,,- 这是什么 爸 - 显然是用来区分真假Beth的记忆\N{\rEng}- What's this, Dad? - The memory of which Beth is real and which Beth is a clone, obviously.
+Dialogue: 0,0:18:53.39,0:18:55.52,Chn,,0,0,0,,你对自己整了摧心时刻那一出吗 你\N{\rEng}You mind-blew yourself? You --
+Dialogue: 0,0:18:55.53,0:18:58.26,Chn,,0,0,0,,你甚至根本不知道哪个才是你真正的女儿\N{\rEng}You literally don't even know which of your daughters is real.
+Dialogue: 0,0:18:58.26,0:18:59.99,Chn,,0,0,0,,你当然会不知道了 我干嘛还吃惊呢\N{\rEng}Of course you don't. Why am I surprised?
+Dialogue: 0,0:19:00.00,0:19:02.73,Chn,,0,0,0,,我敢说 你很希望我们想要从你那儿知道真相\N{\rEng}I'm sure you'd love for us to need that from you,
+Dialogue: 0,0:19:02.73,0:19:04.67,Chn,,0,0,0,,但是我根本不在乎那小瓶里面是啥\N{\rEng}but I don't care what's in that vial.
+Dialogue: 0,0:19:04.67,0:19:05.87,Chn,,0,0,0,,是 我也是\N{\rEng}Yeah, me neither.
+Dialogue: 0,0:19:05.87,0:19:07.40,Chn,,0,0,0,,- 你横竖都是个人渣 - 所以呢\N{\rEng}- You're a piece of shit either way. - So what,
+Dialogue: 0,0:19:07.40,0:19:09.07,Chn,,0,0,0,,经历了这么多之后 你们不想知道真相吗\N{\rEng}After all this, you don't want to know the truth?
+Dialogue: 0,0:19:09.07,0:19:11.00,Chn,,0,0,0,,真相就是我们有更重要的事去做\N{\rEng}The truth is we have more important shit to do
+Dialogue: 0,0:19:11.01,0:19:13.61,Chn,,0,0,0,,比如养大我们的孩子 消灭星际联邦\N{\rEng}like raise our kids and stamp out the Federation,
+Dialogue: 0,0:19:13.61,0:19:16.94,Chn,,0,0,0,,这些看起来都跟你没什么关系\N{\rEng}neither of which seem like they want anything to do with you.
+Dialogue: 0,0:19:19.62,0:19:22.88,Chn,,0,0,0,,Morty 小夏夏 至少你们会想知道谁是真的妈妈吧\N{\rEng}Morty? Sum-Sum? You gotta at least wanna know who your real mom is.
+Dialogue: 0,0:19:22.89,0:19:23.89,Chn,,0,0,0,,不见得 Rick\N{\rEng}Not really, Rick.
+Dialogue: 0,0:19:23.89,0:19:25.09,Chn,,0,0,0,,我们现在有俩特厉害的妈妈了\N{\rEng}We have two badass moms now.
+Dialogue: 0,0:19:25.09,0:19:26.69,Chn,,0,0,0,,这也是一种双赢\N{\rEng}It's -- That's kind of a win/win.
+Dialogue: 0,0:19:26.69,0:19:30.16,Chn,,0,0,0,,是啊Rick姥爷 别因为你在家里没了掌控权 就把我们卷进你的烂事里\N{\rEng}Yeah, Grandpa Rick, don't drag us into your bullshit just because you're losing control.
+Dialogue: 0,0:19:34.63,0:19:36.83,Chn,,0,0,0,,我知道我想做什么\N{\rEng}I know what I want to do.
+Dialogue: 0,0:19:36.83,0:19:38.30,Chn,,0,0,0,,- 我想要你做决定 - 什么\N{\rEng}- I want you to decide. - What?
+Dialogue: 0,0:19:38.30,0:19:40.83,Chn,,0,0,0,,这是人生中唯一一次 我想让你做决定 爸\N{\rEng}For once in my life, I want you to decide, Dad.
+Dialogue: 0,0:19:40.84,0:19:43.50,Chn,,0,0,0,,你是想让我留在这里 成为你生活的一部分呢\N{\rEng}Do you want me to stay here and be part of your life,
+Dialogue: 0,0:19:43.51,0:19:45.44,Chn,,0,0,0,,还是想让我走呢\N{\rEng}or do you want me to leave?
+Dialogue: 0,0:19:55.85,0:19:58.25,Chn,,0,0,0,,*我知道你尝试过*\N{\rEng}*I know you tried*
+Dialogue: 0,0:19:58.25,0:20:01.52,Chn,,0,0,0,,*我知道你尽力了*\N{\rEng}*I know you tried your best*
+Dialogue: 0,0:20:06.60,0:20:09.40,Chn,,0,0,0,,*现在是时候结束这一切了*\N{\rEng}*And now it's time to put this all to rest*
+Dialogue: 0,0:20:09.40,0:20:12.33,Chn,,0,0,0,,嘿 吼 赌一把 赌一把啊\N{\rEng}Hup! Ho! Big money, big money.
+Dialogue: 0,0:20:12.34,0:20:14.60,Chn,,0,0,0,,盯住她哦 变得真快\N{\rEng}Eyes on the lady. Switcheroo.
+Dialogue: 0,0:20:14.60,0:20:16.74,Chn,,0,0,0,,哪个是哪个\N{\rEng}Which one's which?
+Dialogue: 0,0:20:18.87,0:20:22.14,Chn,,0,0,0,,见鬼 我是个差劲的父亲\N{\rEng}Holy shit. I'm a terrible father.
+Dialogue: 0,0:20:22.15,0:20:25.68,Chn,,0,0,0,,*一个遥远的声音*\N{\rEng}*Oh, a distant voice*
+Dialogue: 0,0:20:25.68,0:20:29.22,Chn,,0,0,0,,至少我是个好朋友\N{\rEng}At least I'm a pretty good friend.
+Dialogue: 0,0:20:29.22,0:20:32.89,Chn,,0,0,0,,看起来就剩你跟我了 伙计\N{\rEng}Looks like it's just you and me, buddy.
+Dialogue: 0,0:20:35.43,0:20:37.69,Chn,,0,0,0,,好吧 好吧 再给你点时间\N{\rEng}Okay, alright, we'll give you a little more time.
+Dialogue: 0,0:20:37.69,0:20:41.70,Chn,,0,0,0,,*有个声音想将我拖入深渊*\N{\rEng}*There’s a voice and it's trying to drag me down*
+Dialogue: 0,0:20:41.70,0:20:43.97,Chn,,0,0,0,,*深渊*\N{\rEng}*Down*
+Dialogue: 0,0:20:43.97,0:20:50.84,Chn,,0,0,0,,*如果你去 那我会追随你的脚步*\N{\rEng}*If you go then I'm going with you now*
+Dialogue: 0,0:20:53.64,0:20:58.31,Chn,,0,0,0,,*别回头 没什么可看*\N{\rEng}*Don't look back, nothing left to see*
+Dialogue: 0,0:20:58.31,0:21:01.78,Chn,,0,0,0,,*把影子留在过去*\N{\rEng}*Just leave the shadows in the past*
+Dialogue: 0,0:21:01.79,0:21:04.45,Chn,,0,0,0,,*如果我放手*\N{\rEng}*If I let it go*
+Dialogue: 0,0:21:04.45,0:21:08.12,Chn,,0,0,0,,*我能摆脱这感觉吗*\N{\rEng}*Can I shake this feeling?*
+Dialogue: 0,0:21:12.80,0:21:15.60,Chn,,0,0,0,,*就像那样*\N{\rEng}*Just like that*
+Dialogue: 0,0:21:15.60,0:21:21.13,Chn,,0,0,0,,*我永远无法要回明天*\N{\rEng}*Tomorrow's one day that I'm never getting back*
+Dialogue: 0,0:21:21.14,0:21:24.07,Chn,,0,0,0,,*但我能感觉到你*\N{\rEng}*I can feel you though*
+Dialogue: 0,0:21:24.07,0:21:28.84,Chn,,0,0,0,,*将我从这梦中唤醒*\N{\rEng}*Wake me from this dreaming*
+Dialogue: 0,0:21:29.61,0:21:31.81,Chn,,0,0,0,,再见 老朋友\N{\rEng}Ah, goodbye, old friend.
+Dialogue: 0,0:21:31.82,0:21:35.42,Chn,,0,0,0,,我们玩得很开心 但我已经准备好再次露面了\N{\rEng}We've had our fun, but I'm ready to be seen again.
+Dialogue: 0,0:21:38.82,0:21:40.89,Chn,,0,0,0,,- 什么鬼 - 我天 我去哪了\N{\rEng}- What the fuck?! - Oh, my God! Where did I go?
+Dialogue: 0,0:21:40.89,0:21:42.89,Chn,,0,0,0,,哦 我勒个大槽\N{\rEng}Oh, shitskis.
+Dialogue: 0,0:21:44.23,0:21:45.23,Chn,,0,0,0,,慢点\N{\rEng}Slow down!
+Dialogue: 0,0:21:45.23,0:21:49.10,Chn,,0,0,0,,- 路上有一辆看不见的垃圾车 - 那可不咋地\N{\rEng}- There's an invisible garbage truck in the road! - Yeah, right.
+Dialogue: 0,0:21:52.17,0:21:53.97,Chn,,0,0,0,,我还活着 我活--\N{\rEng}I'm alive. I survi--
+Dialogue: 0,0:21:57.44,0:22:00.44,Chn,,0,0,0,,那啥 入乡随俗吧\N{\rEng}I mean, when in Rome.
+Dialogue: 0,0:22:00.44,0:22:03.71,Chn,,0,0,0,,*看不见的垃圾车Jerry*\N{\rEng}*Invisible Garbage Truck Jerry*
+Dialogue: 0,0:22:03.71,0:22:05.58,Chn,,0,0,0,,*这是个新剧*\N{\rEng}*It's a new franchise*
+Dialogue: 0,0:22:08.52,0:22:11.85,Chn,,0,0,0,,婊子 你的工作就是和陌生人交媾\N{\rEng}Bitch, your job is to have intercourse with strangers
+Dialogue: 0,0:22:11.86,0:22:13.25,Chn,,0,0,0,,并且把钱给我\N{\rEng}and give me the money.
+Dialogue: 0,0:22:13.26,0:22:14.99,Chn,,0,0,0,,抱歉我叫你婊子 这里它是专业术语\N{\rEng}Sorry I called you a bitch, it's a vocational term.
+Dialogue: 0,0:22:14.99,0:22:16.86,Chn,,0,0,0,,而不是我个人对你的评价\N{\rEng}It's not how I feel about you personally.
+Dialogue: 0,0:22:16.86,0:22:17.86,Chn,,0,0,0,,什么 什 什什 啊\N{\rEng}What the -- what -- what -- aah!
+Dialogue: 0,0:22:20.26,0:22:21.86,Chn,,0,0,0,,有人叫车了吗\N{\rEng}Somebody call for a pickup?
+Dialogue: 0,0:22:21.87,0:22:24.07,Chn,,0,0,0,,我们去倒垃圾吧\N{\rEng}Let's go take out the trash.
+Dialogue: 0,0:22:24.07,0:22:27.27,Chn,,0,0,0,,*看不见的垃圾车Jerry*\N{\rEng}*Invisible Garbage Truck Jerry*
+Dialogue: 0,0:22:27.27,0:22:29.80,Chn,,0,0,0,,*这是个新剧*\N{\rEng}*It's a new franchise*
+Dialogue: 0,0:22:29.81,0:22:32.31,Chn,,0,0,0,,*直到他没油了*\N{\rEng}*Until he runs out of gas*
+Dialogue: 0,0:22:38.01,0:22:41.25,Chn,,0,0,0,,呃 合作得还不赖啦\N{\rEng}Well, we had a good run.
