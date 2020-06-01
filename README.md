@@ -1,4 +1,4 @@
-# *Rick and Morty*: Chinese Subtitles
+# &bull; *Rick and Morty*: Chinese Subtitles &bull;
 
 这里是 [Community-137](https://subhd.la/zu/131) 的作品发布页。我们是专注于 *Rick and Morty* 中文字幕的非营利性团体，秉承开源、分享的互联网精神，为有溯源精神和搜索能力的观众提供服务，志在集众人力量输出最高质量的 *Rick and Morty* 双语外挂字幕。
 
@@ -6,7 +6,7 @@
 
 电波字幕组是 *Rick and Morty* 在国内传播的拓荒者，Community-137 的每个成员都是通过他们的翻译结识的这部剧。在此我们谨向电波字幕组表达诚挚的敬意。
 
-## &bull; 译文改错
+## &bull; 译文改错 &bull;
 
 对于 Community-137 的原创翻译，即从 S04E03 开始的部分，我们邀请所有观众参与改错。改错的基本原则是：**仅仅修正语义错误，忽略表达习惯差异**。原则上我们不在字幕中为梗写注释，仅仅译出对理解剧情至关重要的画面文字，有关此决定的讨论详见招募公告和内部手册（正在重写……暂不提供）。
 
@@ -38,17 +38,17 @@ pull request 的规范与 issue 的类似，即：**为每个 pull request 单�
 
 wubba lubba dub dub
 
-## &bull; 译者招募
+## &bull; 译者招募 &bull;
 
 季间间歇暂停招募，有意者请在下季前夕关注本页的改动。
 
-## &bull; 欢迎关注
+## &bull; 欢迎关注 &bull;
 
 > 我们建设了两个 RM 粉丝交流群，欢迎各位加入（暂时缺乏规划，入群可能失望）：入微信群请微信添加 cream_scream，他会拉你入群；入 Telegram 群请前往 https://t.me/fsc137 。
 
 我们的微信公众号（第五季前不发文）和微博（暂时注销待申请）的 ID 都是 Community-137，欢迎关注（暂无必要）。
 
-## &bull; 值得强调
+## &bull; 值得强调 &bull;
 
 GitHub 永远是我们的首要阵地，即便建站（遥遥无期），网站也只能排到第二。随时在 GitHub 搜 *Rick and Morty*，即可在第一页找到我们。不存在“关注防走丢”，请保持判断力自由行走。
 
