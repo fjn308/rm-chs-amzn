@@ -1,6 +1,8 @@
 # *Rick and Morty*: Chinese Subtitles
 
-> 下载字幕请点击右上方绿色 Clone or download 按钮，再点蓝色 Download Zip 字样。或直接[点这里](https://github.com/fjn308/Rick-and-Morty-Chinese-Subtitles/archive/master.zip)。
+> 下载字幕请点击右上方绿色 Clone or download 按钮，再点蓝色 Download Zip 字样。或直接 [点这里](https://github.com/fjn308/Rick-and-Morty-Chinese-Subtitles/archive/master.zip)。
+
+> 欢迎 Watch 本仓库，请选择 Watching 而非 Release only。fjn308 开了一个长期 Issue 专门用于罗列新字幕上传的消息，每条消息都会激活 Watching 机制导致你收到邮件提醒，而 Releases 是被用于存放招募公告、内部手册和 pr 教程等 pdf 文档的地方。
 
 这里是 [Community-137](https://subhd.la/zu/131) 的作品发布页。我们是专注于 *Rick and Morty* 中文字幕的非营利性团体，秉承开源、分享的互联网精神，为有溯源精神和搜索能力的观众提供服务，志在集众人力量输出最高质量的 *Rick and Morty* 双语外挂字幕。
 
