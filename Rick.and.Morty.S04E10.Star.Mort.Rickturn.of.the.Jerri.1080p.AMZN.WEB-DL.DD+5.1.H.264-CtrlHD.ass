@@ -198,8 +198,7 @@ Dialogue: 0,0:07:07.04,0:07:09.57,Chn,,0,0,0,,- 呃 我能 - 好吧 我们投降
 Dialogue: 0,0:07:09.58,0:07:11.91,Chn,,0,0,0,,Jerry 你是否认同 使用手偶\N{\rEng}Jerry, do you agree that the use of puppets
 Dialogue: 0,0:07:11.91,0:07:13.44,Chn,,0,0,0,,会显得自己又蠢又疯\N{\rEng}makes you seem dumb and crazy?
 Dialogue: 0,0:07:13.45,0:07:16.91,Chn,,0,0,0,,我认为“疯”这个字在心理治疗的时候不便乱说吧\N{\rEng}I don't think "crazy" is a responsible word to use in --
-Dialogue: 0,0:07:16.92,0:07:18.51,Chn,,0,0,0,,现在能说了 这就是疯了\N{\rEng}It is now. This is crazy.
-Dialogue: 0,0:07:18.52,0:07:19.38,Chn,,0,0,0,,你就是个疯子\N{\rEng}You're being crazy.
+Dialogue: 0,0:07:16.92,0:07:19.38,Chn,,0,0,0,,现在能说了 这就是疯了 你就是疯子\N{\rEng}It is now. This is crazy. You're being crazy.
 Dialogue: 0,0:07:19.39,0:07:20.98,Chn,,0,0,0,,电视上的心理治疗都用手偶的\N{\rEng}They do it in therapy on TV.
 Dialogue: 0,0:07:20.99,0:07:24.52,Chn,,0,0,0,,呵 电视台还给英国人颁烘焙奖呢 Jerry\N{\rEng}Well, TV gives British people prizes for baking, Jerry.
 Dialogue: 0,0:07:29.06,0:07:31.19,Chn,,0,0,0,,- Tammy - 彤鸭 鳎米鸭 鳎米鸭\N{\rEng}- Tammy? - Tonya? Tammya? Tammya.
@@ -226,7 +225,7 @@ Dialogue: 0,0:08:13.17,0:08:14.70,Chn,,0,0,0,,并不是 所以我在此处部署
 Dialogue: 0,0:08:14.71,0:08:17.11,Chn,,0,0,0,,声控的紧急逃跑装置\N{\rEng}of voice-activated escape contingencies.
 Dialogue: 0,0:08:17.11,0:08:18.71,Chn,,0,0,0,,这些建议都很棒呢\N{\rEng}These are all good points.
 Dialogue: 0,0:08:18.71,0:08:20.84,Chn,,0,0,0,,我得好好审视下自己了\N{\rEng}I need to take a long look at myself.
-Dialogue: 0,0:08:23.98,0:08:25.38,Chn,,0,0,0,,我很想探讨下这个问题\N{\rEng}I'd like to discuss that.
+Dialogue: 0,0:08:23.98,0:08:25.38,Chn,,0,0,0,,我很想探讨下这个\N{\rEng}I'd like to discuss that.
 Dialogue: 0,0:08:25.38,0:08:26.58,Chn,,0,0,0,,我才不探讨问题\N{\rEng}I don't discuss problems,
 Dialogue: 0,0:08:26.58,0:08:27.45,Chn,,0,0,0,,我直接一把火烧掉\N{\rEng}I incinerate them.
 Dialogue: 0,0:08:27.45,0:08:29.65,Chn,,0,0,0,,各位快上车\N{\rEng}Everybody in the car.
