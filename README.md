@@ -2,11 +2,11 @@
 
 > 下载字幕请点击右上方绿色 Clone or download 按钮，再点蓝色 Download Zip 字样。或直接 [点这里](https://github.com/fjn308/Rick-and-Morty-Chinese-Subtitles/archive/master.zip)。
 
-> 欢迎 Watch 本仓库，请选择 Watching 而非 Release only。fjn308 开了一个长期 Issue 专门罗列重要更新，每条消息都会激活 Watching 机制导致你收到邮件提醒，而 Releases 是被用于存放招募公告、内部手册和 pr 教程等 pdf 文档的地方。
-
 这里是 [Community-137](https://subhd.la/zu/131) 的作品发布页。我们是专注于 *Rick and Morty* 中文字幕的非营利性团体，秉承开源、分享的互联网精神，为有溯源精神和搜索能力的观众提供服务，志在集众人力量输出最高质量的 *Rick and Morty* 双语外挂字幕。
 
 第五季开播前，经过精细整理的全集字幕会被陆续上传到这里，欢迎 Watch（并顺手 Star）。其中时间轴取自蓝光 PGS 字幕，英字 OCR 自蓝光 PGS 字幕；S01-S02 译本取自 [电波字幕组](http://dbfansub.com/) 发布的外挂字幕，S03E01-S04E02 译本 OCR 自电波字幕组发布的熟肉视频，S04E03 起的译本取自 Community-137 随剧集更新发布的外挂字幕。
+
+> 欢迎 Watch 本仓库，请选择 Watching 而非 Release only。fjn308 开了一个长期 Issue 专门罗列重要更新，每条消息都会激活 Watching 机制导致你收到邮件提醒，而 Releases 是被用于存放招募公告、内部手册和 pr 教程等 pdf 文档的地方。
 
 电波字幕组是 *Rick and Morty* 在国内传播的拓荒者，Community-137 的每个成员都是通过他们的翻译结识的这部剧。在此我们谨向电波字幕组表达诚挚的敬意。
 
