@@ -54,7 +54,7 @@ GitHub 永远是我们的首要阵地，即便建站（遥遥无期），网站�
 
 电波字幕组是 *Rick and Morty* 在国内传播的拓荒者，Community-137 的每个成员都是通过他们的翻译结识的这部剧。在此我们谨向电波字幕组表达诚挚的敬意。
 
-期待更多来自 GitHub 的 CONTRIBUTOR。每当获得有效贡献，我们会把 CONTRIBUTOR 列入片头字幕信息以示谢意，他们是：
+期待更多来自 GitHub 的 CONTRIBUTOR。每当获得有效贡献，我们会把 CONTRIBUTOR 列入片头字幕信息以示谢意，他们有：
 
 * S04E03：[aboolou](https://github.com/aboolou)，一处语义修正
 * S04E09：[Ntrv777](https://github.com/Ntrv777)，一处语义修正
