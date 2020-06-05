@@ -56,9 +56,9 @@ GitHub 永远是我们的首要阵地，即便建站（遥遥无期），网站�
 
 期待更多来自 GitHub 的 CONTRIBUTOR。每当获得有效贡献，我们会把 CONTRIBUTOR 列入片头字幕信息以示谢意，他们是：
 
-* S04E03：@aboolou，一处语义修正
-* S04E09：@Ntrv777，一处语义修正
+* S04E03：[aboolou](https://github.com/aboolou)，一处语义修正
+* S04E09：[Ntrv777](https://github.com/Ntrv777)，一处语义修正
 
-感谢诸位的认真。当然，译者也是观众，作为观众，我们感谢 Community-137 [全体成员](https://github.com/orgs/Community-137/people)（列表待拉全）的热情奉献。
+感谢诸位的认真。当然，译者也是观众，作为观众，我们感谢 Community-137 [全体成员](https://github.com/orgs/Community-137/people)（组织成员有待拉全）的热情奉献。
 
 wubba lubba dub dub
