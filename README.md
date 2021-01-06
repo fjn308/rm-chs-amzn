@@ -59,6 +59,18 @@ GitHub 永远是我们的首要阵地，即便建站（遥遥无期），网站�
 * S04E03：[aboolou](https://github.com/aboolou)，一处语义修正
 * S04E09：[Ntrv777](https://github.com/Ntrv777)，一处语义修正
 
-感谢诸位的认真。当然，译者也是观众，作为观众，我们感谢 Community-137 [全体成员](https://github.com/orgs/Community-137/people)（组织成员有待拉全）的热情奉献。
+感谢诸位的认真。当然，译者也是观众，作为观众，我们感谢 Community-137 [全体成员](https://github.com/orgs/Community-137/people)（有待拉全）的热情奉献：
+
+* [fuga](https://github.com/fjn308)
+* [se9fault](https://github.com/se9fault)
+* [季叽馥疾己](https://github.com/Clancie)
+* [走吃元](https://github.com/walkeatround)
+* NPC
+* [Ng](https://github.com/Wyjaye)
+* [Chrim](https://github.com/ripitrust)
+* [Otter](https://github.com/benfang2006)
+* [热心粉丝](https://github.com/SubtitleMaster)
+* yjz
+* Ender
 
 wubba lubba dub dub
